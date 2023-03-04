@@ -12,5 +12,5 @@
 </p>
 
 
-### Anda Memang Luar Biasa | ༺ Harry Dertin Sutisna Alsyundawy ༻ | Kaum Rebahan Garis Keras & Militan
+### Anda Memang Luar Biasa | ༺ Harry DS Alsyundawy ༻ | Kaum Rebahan Garis Keras & Militan
 

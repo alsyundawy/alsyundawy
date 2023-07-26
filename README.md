@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Donate with PayPal](https://img.shields.io/badge/PayPal-donate-orange)](https://www.paypal.me/alsyundawy)
+[![Sponsor with GitHub](https://img.shields.io/badge/GitHub-sponsor-orange)](https://github.com/sponsors/alsyundawy)
 
 #### ⚙️ &nbsp;GitHub Analytics
 <p align="left"><b>Visitor's Count</b></p>

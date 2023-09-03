@@ -3,8 +3,8 @@
 [![Sponsor with GitHub](https://img.shields.io/badge/GitHub-sponsor-orange)](https://github.com/sponsors/alsyundawy)
 
 #### ⚙️ &nbsp;GitHub Analytics
-<p align="left"><b>Visitor's Count</b></p>
-<p align="left"><img src="https://profile-counter.glitch.me/alsyundawy/count.svg" alt="visitor badge"/></p>
+<p align="center"> <b>Visitor's Count</b></p>
+<p align="center"> <img src="https://profile-counter.glitch.me/alsyundawy/count.svg" alt="visitor badge"/></p>
 
 <p align="center">
   

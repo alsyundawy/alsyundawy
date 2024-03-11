@@ -16,6 +16,18 @@
 
 </p>
 
+---
+
+<h2 align="center">More insight of my GitHub account</h2>
+<h3 align="center">:trophy::star: Trophies :star::trophy:</h3>
+
+
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alsyunndawy&amp;theme=darkhub" alt="alsyundawy&#39;s Trophies"></a>
+</p>
+
+---
+
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsyundawy&" alt="ALSYUNDAWY OK BANGET CUY">

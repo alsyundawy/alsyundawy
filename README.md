@@ -24,6 +24,7 @@
 
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alsyunndawy&amp;theme=darkhub" alt="alsyundawy&#39;s Trophies"></a>
+<img src ="https://github-profile-trophy.vercel.app/?username=alsyundawy">
 </p>
 
 ---

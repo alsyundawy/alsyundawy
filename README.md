@@ -48,5 +48,5 @@
 </p>
 
 <p align="center">
-### Anda Memang Luar Biasa | ༺ Harry DS Alsyundawy ༻ | Kaum Rebahan Garis Keras & Militan
+ Anda Memang Luar Biasa | ༺ Harry DS Alsyundawy ༻ | Kaum Rebahan Garis Keras & Militan
 </p>

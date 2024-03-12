@@ -12,7 +12,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alsyundawy&show_icons=true&locale=en" alt="ALSYUNDAWY OK BANGET CUY">
   <img src ="https://github-readme-stats.vercel.app/api?username=alsyundawy&show_icons=true&theme=radical)&include_all_commits=true&count_private=true">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=alsyundawy&layout=compact&hide_border=true&langs_count=10&theme=radical&include_all_commits=true&count_private=true">
-  <img src ="https://github-profile-trophy.vercel.app/?username=alsyundawy">
 
 </p>
 
@@ -21,9 +20,7 @@
 <h2 align="center">More insight of my GitHub account</h2>
 <h3 align="center">:trophy::star: Trophies :star::trophy:</h3>
 
-
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alsyunndawy&amp;theme=darkhub" alt="alsyundawy&#39;s Trophies"></a>
 <img src ="https://github-profile-trophy.vercel.app/?username=alsyundawy">
 </p>
 

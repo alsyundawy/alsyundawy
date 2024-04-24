@@ -1,4 +1,5 @@
 ### Hallo Semua, Dukung Yuk,  Anda Puas Saya Lemas 👋
+
 [![Donate with PayPal](https://img.shields.io/badge/PayPal-donate-orange)](https://www.paypal.me/alsyundawy)
 [![Sponsor with GitHub](https://img.shields.io/badge/GitHub-sponsor-orange)](https://github.com/sponsors/alsyundawy)
 
@@ -48,5 +49,5 @@
 </p>
 
 <p align="center">
- Anda Memang Luar Biasa | ༺ Harry DS Alsyundawy ༻ | Kaum Rebahan Garis Keras & Militan
+  ## **AYou Are Awesome | ༺ Harry DS Alsyundawy ༻ | Hardline & Militant Lying Around**
 </p>

@@ -49,5 +49,5 @@
 </p>
 
 <p align="center">
-**AYou Are Awesome | ༺ Harry DS Alsyundawy ༻ | Hardline & Militant Lying Around**
+You Are Awesome | ༺ Harry DS Alsyundawy ༻ | Hardline & Militant Lying Around
 </p>

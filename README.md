@@ -3,6 +3,8 @@
 [![Donate with PayPal](https://img.shields.io/badge/PayPal-donate-orange)](https://www.paypal.me/alsyundawy)
 [![Sponsor with GitHub](https://img.shields.io/badge/GitHub-sponsor-orange)](https://github.com/sponsors/alsyundawy)
 
+**Jika Anda Menyukai dan Merasakan Manfaatnya, Silahkan Donasi ke https://www.paypal.me/alsyundawy**
+
 #### ⚙️ &nbsp;GitHub Analytics
 <p align="center"> <b>Visitor's Count</b></p>
 <p align="center"> <img src="https://profile-counter.glitch.me/alsyundawy/count.svg" alt="visitor badge"/></p>

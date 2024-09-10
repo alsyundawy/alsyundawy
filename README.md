@@ -3,7 +3,9 @@
 [![Donate with PayPal](https://img.shields.io/badge/PayPal-donate-orange)](https://www.paypal.me/alsyundawy)
 [![Sponsor with GitHub](https://img.shields.io/badge/GitHub-sponsor-orange)](https://github.com/sponsors/alsyundawy)
 
-**Jika Anda Menyukai dan Merasakan Manfaatnya, Silahkan Donasi ke https://www.paypal.me/alsyundawy**
+**If you find this project helpful and would like to support it, please consider donating via https://www.paypal.me/alsyundawy. Thank you for your support!**
+
+**Jika Anda merasa terbantu dan ingin mendukung proyek ini, pertimbangkan untuk berdonasi melalui https://www.paypal.me/alsyundawy. Terima kasih atas dukungannya!**
 
 #### ⚙️ &nbsp;GitHub Analytics
 <p align="center"> <b>Visitor's Count</b></p>

@@ -30,8 +30,6 @@
 <p align="center">
 
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=alsyundawy&layout=compact&hide_border=true&langs_count=10&theme=radical&include_all_commits=true&count_private=true">
-  ![alsyundawy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alsyundawy&theme=tokyonight&hide_border=false)
-  ![alsyundawy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alsyundawy&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 </p>
 

@@ -50,7 +50,7 @@
 
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alsyundawy&theme=tokyonight&type=png" alt="GitHub Streak" /></a>
+![GitHub Streak](https://streak-stats.demolab.com?user=alsyundawy&theme=tokyonight)
 
 <p align="center">
 You Are Awesome | ༺ Harry DS Alsyundawy ༻ | Hardline & Militant Lying Around

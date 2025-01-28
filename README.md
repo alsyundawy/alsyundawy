@@ -42,6 +42,8 @@
 <img src ="https://github-profile-trophy.vercel.app/?username=alsyundawy">
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alsyundawy)](https://git.io/streak-stats)
+
 ---
 
 <p align="center">

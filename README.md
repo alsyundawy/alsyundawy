@@ -42,8 +42,6 @@
 <img src ="https://github-profile-trophy.vercel.app/?username=alsyundawy">
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alsyundawy)](https://git.io/streak-stats)
-
 ---
 
 <p align="center">
@@ -51,7 +49,7 @@
 ![alsyundawy's Stats](https://github-readme-stats.vercel.app/api?username=alsyundawy&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 </p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=alsyundawy&theme=tokyonight)](https://git.io/streak-stats)
 <p align="center">
 You Are Awesome | ༺ Harry DS Alsyundawy ༻ | Hardline & Militant Lying Around
 </p>

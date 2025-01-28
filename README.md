@@ -49,7 +49,9 @@
 ![alsyundawy's Stats](https://github-readme-stats.vercel.app/api?username=alsyundawy&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 </p>
-![GitHub Streak](https://streak-stats.demolab.com?user=alsyundawy&theme=tokyonight)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alsyundawy&theme=tokyonight&type=png" alt="GitHub Streak" /></a>
+
 <p align="center">
 You Are Awesome | ༺ Harry DS Alsyundawy ༻ | Hardline & Militant Lying Around
 </p>

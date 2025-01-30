@@ -11,7 +11,7 @@
 
 <p align="center">
   
-  <img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsyundawy&theme=radical">
+  <img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsyundawy&theme=tokyonight">
 
 </p>
 
@@ -22,8 +22,12 @@
 </p>
 
 <p align="center">
+  <img src ="https://github-readme-streak-stats.vercel.kevinazemi.com?user=alsyundawy&theme=tokyonight&locale=id&date_format=j%20M%5B%20Y%5D">
+</p>
 
-  <img src ="https://github-readme-stats.vercel.app/api?username=alsyundawy&show_icons=true&theme=radical)&include_all_commits=true&count_private=true">
+<p align="center">
+
+  <img src ="https://github-readme-stats.vercel.app/api?username=alsyundawy&show_icons=true&theme=tokyonight)&include_all_commits=true&count_private=true">
 
 </p>
 <p align="center">

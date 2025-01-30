@@ -48,8 +48,9 @@
 </p>
 
 ---
-
-
+<p align="center">
+  <img src ="https://streak-stats.demolab.com?user=alsyundawy&theme=tokyonight-duo&locale=id&date_format=j%20M%5B%20Y%5D">
+</p>
 
 <p align="center">
 You Are Awesome | ༺ Harry DS Alsyundawy ༻ | Hardline & Militant Lying Around

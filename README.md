@@ -48,7 +48,7 @@
 <h3 align="center">:trophy::star: Trophies :star::trophy:</h3>
 
 <p align="center">
-<img src ="https://github-profile-trophy.vercel.app/?username=alsyundawy">
+<img src ="https://github-profile-trophy.vercel.app/?username=alsyundawy&theme=onedark">
 </p>
 
 ---

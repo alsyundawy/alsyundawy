@@ -49,7 +49,7 @@
 
 ---
 <p align="center">
-  <img src ="https://streak-stats.demolab.com?user=alsyundawy&theme=tokyonight-duo&locale=id&date_format=j%20M%5B%20Y%5D">
+  <img src ="https://github-readme-streak-stats.vercel.kevinazemi.com?user=alsyundawy&theme=tokyonight-duo">
 </p>
 
 <p align="center">

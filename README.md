@@ -49,7 +49,7 @@
 
 ---
 <p align="center">
-  <img src ="https://github-readme-streak-stats.vercel.kevinazemi.com?user=alsyundawy&theme=tokyonight-duo">
+  <img src ="https://github-readme-streak-stats.vercel.kevinazemi.com?user=alsyundawy&theme=tokyonight&locale=id&date_format=j%20M%5B%20Y%5D">
 </p>
 
 <p align="center">

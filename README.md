@@ -1,11 +1,11 @@
-perbaiki dan optimalkan untuk github ### Hallo Semua, Dukung Yuk,  Anda Puas Saya Lemas 👋
+### Hallo Semua, Dukung Yuk,  Anda Puas Saya Lemas 👋
 
 [![Donate with PayPal](https://img.shields.io/badge/PayPal-donate-orange)](https://www.paypal.me/alsyundawy)
 [![Sponsor with GitHub](https://img.shields.io/badge/GitHub-sponsor-orange)](https://github.com/sponsors/alsyundawy)
 
 **Jika Anda Menyukai dan Merasakan Manfaatnya, Silahkan Donasi ke https://www.paypal.me/alsyundawy**
 
-#### ⚙️ &nbsp;GitHub Analytics
+## 📊 Statistik GitHub
 <p align="center"> <b>Visitor's Count</b></p>
 <p align="center"> <img src="https://profile-counter.glitch.me/alsyundawy/count.svg" alt="visitor badge"/></p>
 
@@ -43,8 +43,8 @@ perbaiki dan optimalkan untuk github ### Hallo Semua, Dukung Yuk,  Anda Puas Say
 </p>
 
 ---
+## 🏆 GitHub Trophies<h2 align="center">More insight of my GitHub account</h2>
 
-<h2 align="center">More insight of my GitHub account</h2>
 <h3 align="center">:trophy::star: Trophies :star::trophy:</h3>
 
 <p align="center">

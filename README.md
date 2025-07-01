@@ -1,43 +1,61 @@
-### Halo Semua! 👋  
-**Dukung Proyek Ini** jika bermanfaat bagi Anda:
+perbaiki dan optimalkan untuk github ### Hallo Semua, Dukung Yuk,  Anda Puas Saya Lemas 👋
 
-[![Donate with PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal)](https://www.paypal.me/alsyundawy)  
-[![Sponsor on GitHub](https://img.shields.io/badge/GitHub-Sponsor-black?logo=github)](https://github.com/sponsors/alsyundawy)
+[![Donate with PayPal](https://img.shields.io/badge/PayPal-donate-orange)](https://www.paypal.me/alsyundawy)
+[![Sponsor with GitHub](https://img.shields.io/badge/GitHub-sponsor-orange)](https://github.com/sponsors/alsyundawy)
+
+**Jika Anda Menyukai dan Merasakan Manfaatnya, Silahkan Donasi ke https://www.paypal.me/alsyundawy**
+
+#### ⚙️ &nbsp;GitHub Analytics
+<p align="center"> <b>Visitor's Count</b></p>
+<p align="center"> <img src="https://profile-counter.glitch.me/alsyundawy/count.svg" alt="visitor badge"/></p>
+
+<p align="center">
+  
+  <img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsyundawy&theme=tokyonight">
+
+</p>
+
+<p align="center">
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alsyundawy&show_icons=true&locale=en" alt="ALSYUNDAWY OK BANGET CUY">
+
+</p>
+
+<p align="center">
+  <img src ="https://github-readme-streak-stats.vercel.kevinazemi.com?user=alsyundawy&theme=tokyonight&locale=id&date_format=j%20M%5B%20Y%5D">
+</p>
+
+<p align="center">
+
+  <img src ="https://github-readme-stats.vercel.app/api?username=alsyundawy&show_icons=true&theme=tokyonight)&include_all_commits=true&count_private=true">
+
+</p>
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=alsyundawy&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
+
+</p>
+
+<p align="center">
+
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=alsyundawy&layout=compact&hide_border=true&langs_count=10&theme=radical&include_all_commits=true&count_private=true">
+
+</p>
 
 ---
 
-## 📊 Statistik GitHub
+<h2 align="center">More insight of my GitHub account</h2>
+<h3 align="center">:trophy::star: Trophies :star::trophy:</h3>
 
 <p align="center">
-  <!-- Visitor Count -->
-  <img src="https://profile-counter.glitch.me/alsyundawy/count.svg" alt="Visitor Count" height="60"/>&nbsp;&nbsp;
-  <!-- Profile Details Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsyundawy&theme=tokyonight" alt="Profile Details" height="120"/>
-</p>
-
-<p align="center">
-  <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alsyundawy&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" height="150"/>&nbsp;&nbsp;
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsyundawy&theme=tokyonight&locale=id" alt="GitHub Streak" height="150"/>
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alsyundawy&layout=compact&langs_count=10&theme=radical" alt="Top Languages" height="120"/>
+<img src ="https://github-profile-trophy.vercel.app/?username=alsyundawy&theme=onedark">
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alsyundawy&theme=onedark&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src ="https://github-readme-streak-stats.vercel.kevinazemi.com?user=alsyundawy&theme=tokyonight&locale=id&date_format=j%20M%5B%20Y%5D">
 </p>
 
----
-
 <p align="center">
-  You Are Awesome | ༺ Harry DS Alsyundawy ༻  
-  Hardline & Militant Lying Around  
+You Are Awesome | ༺ Harry DS Alsyundawy ༻ | Hardline & Militant Lying Around
 </p>

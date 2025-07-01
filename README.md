@@ -43,9 +43,9 @@
 </p>
 
 ---
-## 🏆 GitHub Trophies<h2 align="center">More insight of my GitHub account</h2>
 
-<h3 align="center">:trophy::star: Trophies :star::trophy:</h3>
+
+<h2 align="center">:trophy::star: GitHub Trophies :star::trophy:</h2>
 
 <p align="center">
 <img src ="https://github-profile-trophy.vercel.app/?username=alsyundawy&theme=onedark">

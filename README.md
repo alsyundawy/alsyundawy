@@ -5,6 +5,16 @@
 
 **Jika Anda Menyukai dan Merasakan Manfaatnya, Silahkan Donasi ke https://www.paypal.me/alsyundawy**
 
+## Star History
+
+<a href="https://www.star-history.com/#alsyundawy/alsyundawy&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=alsyundawy/alsyundawy&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=alsyundawy/alsyundawy&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=alsyundawy/alsyundawy&type=Date" />
+ </picture>
+</a>
+
 ## 📊 Statistik GitHub
 <p align="center"> <b>Visitor's Count</b></p>
 <p align="center"> <img alt="Visitor Count" src="https://visitor-count-t7vu.onrender.com/counter-image?siteIdentifier=https://github.com/alsyundawy&style=numbers"></p>

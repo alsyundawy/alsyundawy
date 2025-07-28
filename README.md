@@ -17,7 +17,7 @@
 
 ## 📊 Statistik GitHub
 <p align="center"> <b>Visitor's Count</b></p>
-<p align="center"> ![](https://vbr.nathanchung.dev/badge?page_id=alsyundawy&lcolor=ffb3c1&color=555555&style=flat-square&logo=Github&hit=false)</p>
+![](https://vbr.nathanchung.dev/badge?page_id=alsyundawy&lcolor=ffb3c1&color=555555&style=flat-square&logo=Github&hit=false)
 
 <p align="center">
   

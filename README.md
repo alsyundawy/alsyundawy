@@ -17,13 +17,16 @@
 
 ## 📊 Statistik GitHub
 <p align="center"> <b>Visitor's Count</b></p>
-<p align="center"> <img alt="Visitor Count" src="https://visitor-count-t7vu.onrender.com/counter-image?siteIdentifier=https://github.com/alsyundawy&style=numbers"></p>
 
 <p align="center">
   
   <img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsyundawy&theme=tokyonight">
 
 </p>
+
+<p align="center"> <img alt="Visitor Count" src="https://visitor-count-t7vu.onrender.com/counter-image?siteIdentifier=https://github.com/alsyundawy&style=numbers"></p>
+
+
 
 <p align="center">
   

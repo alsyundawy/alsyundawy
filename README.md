@@ -27,12 +27,6 @@
 
 <p align="center">
   
-  <img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsyundawy&theme=tokyonight">
-
-</p>
-
-<p align="center">
-  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alsyundawy&show_icons=true&locale=en" alt="ALSYUNDAWY OK BANGET CUY">
 
 </p>

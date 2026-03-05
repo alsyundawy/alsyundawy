@@ -72,6 +72,9 @@
 <p align="center">
   <img src ="https://github-readme-streak-stats.vercel.kevinazemi.com?user=alsyundawy&theme=tokyonight&locale=id&date_format=j%20M%5B%20Y%5D">
 </p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alsyundawy&bg_color=000000&color=47fff3&line=2964a3&point=fa2500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<p align="center">
+<p align="center">
+  <img src ="[https://github-readme-streak-stats.vercel.kevinazemi.com?user=alsyundawy&theme=tokyonight&locale=id&date_format=j%20M%5B%20Y%5D](https://github-readme-activity-graph.vercel.app/graph?username=alsyundawy&bg_color=000000&color=47fff3&line=2964a3&point=fa2500&area=true&hide_border=true)">
+</p>
+
 You Are Awesome | ༺ Harry DS Alsyundawy ༻ | Hardline & Militant Lying Around
 </p>

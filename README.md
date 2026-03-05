@@ -65,7 +65,7 @@
 <h2 align="center">:trophy::star: GitHub Trophies :star::trophy:</h2>
 
 <p align="center">
-<img src ="https://github-profile-trophy.vercel.app/?username=alsyundawy&theme=onedark">
+<img src ="https://github-profile-trophy.vercel.app/?username=alsyundawy">
 </p>
 
 ---

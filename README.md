@@ -22,6 +22,11 @@ Based in **DKI Jakarta, Indonesia**, I build robust and secure internet and syst
 - 💬 **Ask me about:** DNS Filtering, BIND9/PowerDNS, MikroTik RouterOS, Zimbra Mail Server, Proxmox/VMware, and macOS deployments.
 - ✉️ **Email:** [alsyundawy@gmail.com](mailto:alsyundawy@gmail.com)
 
+<p align="center">
+  <b>Jika Anda merasa terbantu dan ingin mendukung proyek ini, pertimbangkan untuk berdonasi melalui QRIS. Terima kasih atas dukungannya!</b><br>
+  <img width="400" alt="QRIS Donation" src="https://github.com/user-attachments/assets/a0126f28-6dde-43da-ba14-d7c9a27de0df" />
+</p>
+
 ---
 
 ### 🌐 Live Tools & Services
@@ -93,11 +98,24 @@ I host and maintain several public tools and services to assist network engineer
 
 ---
 
+### ⭐ Star History
+
+<p align="center">
+  <a href="https://star-history.com/#alsyundawy/alsyundawy&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=alsyundawy/alsyundawy&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=alsyundawy/alsyundawy&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=alsyundawy/alsyundawy&type=Date" />
+    </picture>
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Analytics & Badges
 
 <p align="center">
-  <b>Visitor Count</b><br>
-  <img src="https://profile-counter.glitch.me/alsyundawy/count.svg" alt="Visitor Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=alsyundawy&color=orange&style=flat-square" alt="Visitor Badge"/>
 </p>
 
 <p align="center">
@@ -128,7 +146,8 @@ I host and maintain several public tools and services to assist network engineer
 ### Version 2.0.0 (July 5, 2026)
 
 - **Comprehensive Rewrite**: Transformed the repository README into a professional profile matching the developer portfolio at `alsyundawy.github.io`.
-- **Mirror Patch**: Replaced rate-limited endpoints for *Top Languages* and *Trophies* with active, verified mirror domains (`github-readme-stats-sigma-five` and `github-profile-trophy-unserori`).
+- **Mirror & Counter Patch**: Replaced rate-limited endpoints for *Top Languages*, *Trophies*, and *Visitor Count* with active, verified service endpoints (`github-readme-stats-sigma-five`, `github-profile-trophy-unserori`, and `komarev-ghpvc`).
+- **Restored Components**: Restored the original QRIS donation graphic and the Star History chart.
 - **Markdown Linting**: Resolved standard validation issues including heading level structure, list formats, and margin spacing.
 - **Aesthetic Refinement**: Re-organized contact badges and technical categories to follow modern responsive practices.
 

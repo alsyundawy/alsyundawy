@@ -14,11 +14,13 @@
 
 ### 📖 About Me
 
-Internet addict, Windows, macOS, FreeBSD, and Linux lover. I am a **System Administrator / System Engineer** with **15+ years of experience** specializing in ISP operations, DNS filtering architectures, mail server deployments, hypervisors, and Apple Mac technical support.
+Internet addict, Windows, macOS, FreeBSD, and Linux lover. I am a **System Administrator / System Engineer** (humorously styled as *System Administrator Magang*) with **15+ years of experience** specializing in ISP operations, DNS filtering architectures, mail server deployments, hypervisors, and Apple Mac technical support.
 
-Based in **DKI Jakarta, Indonesia**, I build robust and secure internet and system solutions.
+Based in **DKI Jakarta, Indonesia**, I build robust, scalable, and secure internet and system solutions.
 
-- 🛠️ **Current Role:** OpisBoy | Server & Mac Technician | DNS & ISP Infrastructure Specialist
+> *ɪɴᴛᴇʀɴᴇᴛ ᴀᴅᴅɪᴄᴛ, ᴡɪɴᴅᴏᴡ, ᴍᴀᴄ & ʟɪɴᴜx ʟᴏᴠᴇʀ, ɪ ᴀᴍ ɴᴏᴛ ɢᴏᴏᴅ ᴍᴀɴ ʙᴜᴛ ᴛʜᴇ ᴍᴀɴ ɪɴ ɢᴏᴏᴅ ᴅᴀʏ & ɪ ᴀᴍ ᴏᴘɪsʙᴏʏ*
+
+- 🛠️ **Current Role:** OpisBoy | Teknisi Mac & Server Keliling | DNS & ISP Infrastructure Specialist
 - 💬 **Ask me about:** DNS Filtering, BIND9/PowerDNS, MikroTik RouterOS, Zimbra Mail Server, Proxmox/VMware, and macOS deployments.
 - ✉️ **Email:** [alsyundawy@gmail.com](mailto:alsyundawy@gmail.com)
 
@@ -37,6 +39,9 @@ I host and maintain several public tools and services to assist network engineer
 | :--- | :--- | :--- |
 | **Looking Glass** | Enterprise-grade network diagnostic tools | [lg.alsyundawy.com](https://lg.alsyundawy.com) |
 | **Looking Glass v2.5** | Advanced diagnostic tool interface | [lg.alsyundawy.com/lgv2.php](https://lg.alsyundawy.com/lgv2.php) |
+| **Looking Glass (v2.0)** | Classic Looking Glass | [lg.alsyundawy.com/lg.php](https://lg.alsyundawy.com/lg.php) |
+| **Looking Glass (v2.1)** | Alternative diagnostic interface | [lg.alsyundawy.com/lgv1.php](https://lg.alsyundawy.com/lgv1.php) |
+| **Looking Glass (GitHub)** | Open-source diagnostic version | [lg.alsyundawy.com/lg-github.php](https://lg.alsyundawy.com/lg-github.php) |
 | **SpeedTest** | High-performance HTML5 speed check | [speedtest.alsyundawy.com](https://speedtest.alsyundawy.com/) |
 | **RBL Checker** | Real-time email blacklist checker | [rbl.alsyundawy.com](https://rbl.alsyundawy.com/) |
 | **TrustPositif Check** | Check domains against Kominfo blacklist | [trustcheck.alsyundawy.com](https://trustcheck.alsyundawy.com/) |
@@ -81,20 +86,29 @@ I host and maintain several public tools and services to assist network engineer
 - **[TrustPositif](https://github.com/alsyundawy/TrustPositif)**: Comprehensive raw TrustPositif domain database with daily automated updates.
 - **[sunat-trustpositif](https://github.com/alsyundawy/sunat-trustpositif)**: Shell script that validates domain lists against official TLDs and cleanses database records.
 - **[StevenBlack-Host-RPZ](https://github.com/alsyundawy/StevenBlack-Host-RPZ)**: Converts the StevenBlack host lists to DNS RPZ format.
+- **[dns-blocklists](https://github.com/alsyundawy/dns-blocklists)**: Fork of Hagezi DNS-Blocklists for safe browsing.
+- **[Sefinek-Blocklist-Collection](https://github.com/alsyundawy/Sefinek-Blocklist-Collection)**: A comprehensive compilation of block lists for Pi-hole and AdGuard with over 5 million domains.
 
 #### 🖥️ Diagnostics & Network Tools
 
 - **[php-looking-glass](https://github.com/alsyundawy/php-looking-glass)**: Professional, lightweight, single-file PHP Looking Glass. IPv4/IPv6 compatible.
+- **[MIKROTIK-SCRIPT](https://github.com/alsyundawy/MIKROTIK-SCRIPT)**: Curated collection of useful Mikrotik scripting automations.
 - **[mikrotik-blacklist](https://github.com/alsyundawy/mikrotik-blacklist)**: RouterOS scripts for automated threat intelligence blacklist updates.
 - **[bind-acl-indonesia-openixp](https://github.com/alsyundawy/bind-acl-indonesia-openixp)**: Automatically generates Indonesian IP ACL files for BIND9 DNS using Nice.rsc and APNIC.
 - **[dnsperftest](https://github.com/alsyundawy/dnsperftest)**: Comprehensive DNS benchmark and latency evaluation tool.
+- **[ufw-ipset-blocklist-autoupdate](https://github.com/alsyundawy/ufw-ipset-blocklist-autoupdate)**: Automatically updates IP blocking lists via ipset and ufw firewalls.
+- **[PowerDNS-Zone-Backups](https://github.com/alsyundawy/PowerDNS-Zone-Backups)**: Automated PowerDNS zone backup solution with incremental backups.
 
-#### 📦 System Tools & Automations
+#### 📦 System Tools & macOS Automations
 
-- **[Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)**: Complete Mac installer bundle for Microsoft Office (Intel/Apple Silicon) with LTSC serializer.
+- **[Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)**: Complete Mac installer bundle for Microsoft Office (Intel/Apple Silicon) with LTSC serializer (7.2k+ stars!).
+- **[skipmdm-bypass](https://github.com/alsyundawy/skipmdm-bypass)**: Automatic MDM bypass scripts for Monterey, Ventura, and Sonoma macOS.
+- **[CleanMyMacX-MAS](https://github.com/alsyundawy/CleanMyMacX-MAS)**: Python script unlocking features in CleanMyMac X.
 - **[File-Directory-Browser](https://github.com/alsyundawy/File-Directory-Browser)**: PHP File browser featuring advanced security (CSRF protection, output sanitization, hash checks).
 - **[Zimbra-Clean-Spam](https://github.com/alsyundawy/Zimbra-Clean-Spam)**: Scan and purge spam email queues caused by compromised accounts.
 - **[uninstall-zimbra](https://github.com/alsyundawy/uninstall-zimbra)**: Complete Bash utility to clean-uninstall Zimbra instances from Linux.
+- **[NotepadNext-MacOS](https://github.com/alsyundawy/NotepadNext-MacOS)**: Reimplementation of Notepad++ for macOS.
+- **[XiaomiADBFastbootTools-Win32](https://github.com/alsyundawy/XiaomiADBFastbootTools-Win32)**: ADB and fastboot tools optimized for Xiaomi devices on Windows.
 
 ---
 
@@ -143,9 +157,11 @@ I host and maintain several public tools and services to assist network engineer
 <details>
 <summary><b>📋 Documentation Notes & Changelog</b></summary>
 
-### Version 2.0.0 (July 5, 2026)
+### Version 2.1.0 (July 5, 2026)
 
-- **Comprehensive Rewrite**: Transformed the repository README into a professional profile matching the developer portfolio at `alsyundawy.github.io`.
+- **Expanded Profile Data**: Integrated additional background and details from `alsyundawy.com`, including the user's self-styled identity as *System Administrator Magang / OpisBoy / Teknisi Mac & Server Keliling*.
+- **Comprehensive Repository Expansion**: Scraped GitHub and added missing highly starred and notable projects (`MIKROTIK-SCRIPT`, `CleanMyMacX-MAS`, `dns-blocklists`, `Sefinek-Blocklist-Collection`, `skipmdm-bypass`, `ufw-ipset-blocklist-autoupdate`, `PowerDNS-Zone-Backups`, `NotepadNext-MacOS`, `XiaomiADBFastbootTools-Win32`).
+- **Looking Glass Mirrors**: Added the multiple Looking Glass version endpoints (v2.0, v2.1, and GitHub version) in the live services table.
 - **Mirror & Counter Patch**: Replaced rate-limited endpoints for *Top Languages*, *Trophies*, and *Visitor Count* with active, verified service endpoints (`github-readme-stats-sigma-five`, `github-profile-trophy-unserori`, and `komarev-ghpvc`).
 - **Restored Components**: Restored the original QRIS donation graphic and the Star History chart.
 - **Markdown Linting**: Resolved standard validation issues including heading level structure, list formats, and margin spacing.

@@ -113,12 +113,26 @@ I host and maintain several public tools and services to assist network engineer
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsyundawy&layout=compact&hide_border=true&langs_count=10&theme=radical&include_all_commits=true&count_private=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=alsyundawy&layout=compact&hide_border=true&langs_count=10&theme=radical&include_all_commits=true&count_private=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alsyundawy&theme=onedark" alt="Trophies"/>
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=alsyundawy&theme=onedark" alt="Trophies"/>
 </p>
+
+---
+
+<details>
+<summary><b>📋 Documentation Notes & Changelog</b></summary>
+
+### Version 2.0.0 (July 5, 2026)
+
+- **Comprehensive Rewrite**: Transformed the repository README into a professional profile matching the developer portfolio at `alsyundawy.github.io`.
+- **Mirror Patch**: Replaced rate-limited endpoints for *Top Languages* and *Trophies* with active, verified mirror domains (`github-readme-stats-sigma-five` and `github-profile-trophy-unserori`).
+- **Markdown Linting**: Resolved standard validation issues including heading level structure, list formats, and margin spacing.
+- **Aesthetic Refinement**: Re-organized contact badges and technical categories to follow modern responsive practices.
+
+</details>
 
 ---
 

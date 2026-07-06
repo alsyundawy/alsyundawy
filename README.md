@@ -42,6 +42,7 @@ I host and maintain several public tools and services to assist network engineer
 | **Looking Glass (v2.0)** | Classic Looking Glass | [lg.alsyundawy.com/lg.php](https://lg.alsyundawy.com/lg.php) |
 | **Looking Glass (v2.1)** | Alternative diagnostic interface | [lg.alsyundawy.com/lgv1.php](https://lg.alsyundawy.com/lgv1.php) |
 | **Looking Glass (GitHub)** | Open-source diagnostic version | [lg.alsyundawy.com/lg-github.php](https://lg.alsyundawy.com/lg-github.php) |
+| **MultiPing** | MultiPing Location latency tests | [lg.alsyundawy.com/multiping.php](https://lg.alsyundawy.com/multiping.php) |
 | **SpeedTest** | High-performance HTML5 speed check | [speedtest.alsyundawy.com](https://speedtest.alsyundawy.com/) |
 | **RBL Checker** | Real-time email blacklist checker | [rbl.alsyundawy.com](https://rbl.alsyundawy.com/) |
 | **TrustPositif Check** | Check domains against Kominfo blacklist | [trustcheck.alsyundawy.com](https://trustcheck.alsyundawy.com/) |

@@ -115,20 +115,6 @@ I host and maintain several public tools and services to assist network engineer
 
 ---
 
-### ⭐ Star History
-
-<p align="center">
-  <a href="https://star-history.com/#alsyundawy/alsyundawy&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=alsyundawy/alsyundawy&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=alsyundawy/alsyundawy&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=alsyundawy/alsyundawy&type=Date" />
-    </picture>
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Analytics & Badges
 
 <p align="center">

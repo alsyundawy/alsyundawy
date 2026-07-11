@@ -108,7 +108,6 @@ I host and maintain several public tools and services to assist network engineer
 
 - **[Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)**: Complete Mac installer bundle for Microsoft Office (Intel/Apple Silicon) with LTSC serializer (7.2k+ stars!).
 - **[skipmdm-bypass](https://github.com/alsyundawy/skipmdm-bypass)**: Automatic MDM bypass scripts for Monterey, Ventura, and Sonoma macOS.
-- **[CleanMyMacX-MAS](https://github.com/alsyundawy/CleanMyMacX-MAS)**: Python script unlocking features in CleanMyMac X.
 - **[File-Directory-Browser](https://github.com/alsyundawy/File-Directory-Browser)**: PHP File browser featuring advanced security (CSRF protection, output sanitization, hash checks).
 - **[Zimbra-Clean-Spam](https://github.com/alsyundawy/Zimbra-Clean-Spam)**: Scan and purge spam email queues caused by compromised accounts.
 - **[uninstall-zimbra](https://github.com/alsyundawy/uninstall-zimbra)**: Complete Bash utility to clean-uninstall Zimbra instances from Linux.

@@ -8,6 +8,8 @@
   <a href="https://github.com/sponsors/alsyundawy"><img src="https://img.shields.io/badge/GitHub-Sponsor-red?style=for-the-badge&logo=github-sponsors" alt="Sponsor with GitHub"/></a>
   <a href="https://wa.me/6285658515212"><img src="https://img.shields.io/badge/WhatsApp-Chat-success?style=for-the-badge&logo=whatsapp" alt="Chat on WhatsApp"/></a>
   <a href="https://t.me/alsyundawy"><img src="https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram" alt="Message on Telegram"/></a>
+  <a href="https://instagram.com/harry.ds.alsyundawy"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram"/></a>
+  <a href="https://facebook.com/alsyundawy"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Follow on Facebook"/></a>
 </p>
 
 ---

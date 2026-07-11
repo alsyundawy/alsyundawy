@@ -14,6 +14,8 @@
 
 ### 📖 About Me
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 Internet addict, Windows, macOS, FreeBSD, and Linux lover. I am a **System Administrator / System Engineer** (humorously styled as *System Administrator Magang*) with **15+ years of experience** specializing in ISP operations, DNS filtering architectures, mail server deployments, hypervisors, and Apple Mac technical support.
 
 Based in **DKI Jakarta, Indonesia**, I build robust, scalable, and secure internet and system solutions.

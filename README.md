@@ -14,7 +14,7 @@
 
 ### 📖 About Me
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=alsyundawy)
 
 Internet addict, Windows, macOS, FreeBSD, and Linux lover. I am a **System Administrator / System Engineer** (humorously styled as *System Administrator Magang*) with **15+ years of experience** specializing in ISP operations, DNS filtering architectures, mail server deployments, hypervisors, and Apple Mac technical support.
 

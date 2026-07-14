@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD033 -->
-# ༺ ALSYUNDAWY ༻
+# ༺ Initial H ༻
 
 ## System Administrator & DNS/ISP Infrastructure Specialist 👋
 

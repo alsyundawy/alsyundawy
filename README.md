@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD033 -->
-# ༺ HARRY DERTIN SUTISNA ALSYUNDAWY ༻
+# ༺ ALSYUNDAWY ༻
 
 ## System Administrator & DNS/ISP Infrastructure Specialist 👋
 

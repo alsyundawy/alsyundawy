@@ -16,7 +16,7 @@
 
 ### 📖 About Me
 
-![](https://komarev.com/ghpvc/?username=alsyundawy)
+![Profile Views](https://komarev.com/ghpvc/?username=alsyundawy)
 
 Internet addict, Windows, macOS, FreeBSD, and Linux lover. I am a **System Administrator / System Engineer** (humorously styled as *System Administrator Magang*) with **15+ years of experience** specializing in ISP operations, DNS filtering architectures, mail server deployments, hypervisors, and Apple Mac technical support.
 
@@ -97,7 +97,7 @@ I host and maintain several public tools and services to assist network engineer
 
 #### 🖥️ Diagnostics & Network Tools
 
-- **[php-looking-glass](https://github.com/alsyundawy/php-looking-glass)**: Professional, lightweight, single-file PHP Looking Glass. IPv4/IPv6 compatible.
+- **[php-looking-glass](https://github.com/alsyundawy/php-looking-glass)**:A professional, secure, single-file PHP Looking Glass for network diagnostics. Supports IPv4/IPv6 with a modern responsive UI (Dark/Light mode), featuring Ping, Traceroute, MTR, WHOIS, DNS Lookup, Iperf3, and on-the-fly download speed tests.
 - **[MIKROTIK-SCRIPT](https://github.com/alsyundawy/MIKROTIK-SCRIPT)**: Curated collection of useful Mikrotik scripting automations.
 - **[mikrotik-blacklist](https://github.com/alsyundawy/mikrotik-blacklist)**: RouterOS scripts for automated threat intelligence blacklist updates.
 - **[bind-acl-indonesia-openixp](https://github.com/alsyundawy/bind-acl-indonesia-openixp)**: Automatically generates Indonesian IP ACL files for BIND9 DNS using Nice.rsc and APNIC.

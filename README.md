@@ -89,6 +89,7 @@ I host and maintain several public tools and services to assist network engineer
 
 - **[TrustPositif-To-RPZ-Binary](https://github.com/alsyundawy/TrustPositif-To-RPZ-Binary)**: Converts Kominfo TrustPositif domains into DNS RPZ format. Features whitelist & Google SafeSearch helper.
 - **[TrustPositif](https://github.com/alsyundawy/TrustPositif)**: Comprehensive raw TrustPositif domain database with daily automated updates.
+- **[TrustPositif-Validator](https://github.com/alsyundawy/TrustPositif-Validator)**: Shell Script High-performance domain validation and aggregation pipeline for TrustPositif/Komdigi and public blocklists. IANA-validated, RFC 1034/1035/1123/3490/5890 compliant, IDN/Punycode enabled, filters invalid domains, IPv4/IPv6, duplicates, and malformed entries, producing deterministic DNS/RPZ-ready blocklists. ShellCheck Certified & Audited.
 - **[sunat-trustpositif](https://github.com/alsyundawy/sunat-trustpositif)**: Shell script that validates domain lists against official TLDs and cleanses database records.
 - **[StevenBlack-Host-RPZ](https://github.com/alsyundawy/StevenBlack-Host-RPZ)**: Converts the StevenBlack host lists to DNS RPZ format.
 - **[dns-blocklists](https://github.com/alsyundawy/dns-blocklists)**: Fork of Hagezi DNS-Blocklists for safe browsing.

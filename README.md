@@ -1,7 +1,8 @@
 <!-- markdownlint-disable MD033 -->
-# ༺ Initial H ༻
 
-## System Administrator & DNS/ISP Infrastructure Specialist 👋
+<h1 align="center">༺ Initial H ༻</h1>
+
+<h2 align="center">System Administrator &amp; DNS/ISP Infrastructure Specialist 👋</h2>
 
 <p align="center">
   <a href="https://www.paypal.me/alsyundawy"><img src="https://img.shields.io/badge/PayPal-Donate-orange?style=for-the-badge&logo=paypal" alt="Donate with PayPal"/></a>

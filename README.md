@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 MD041 -->
 
 <p align="center">
   <img src="./banner.jpeg" alt="Initial H Profile Banner" width="100%">
@@ -76,6 +76,7 @@ I host and maintain several public tools and services to assist network engineer
 ### 🛠️ Technical Expertise
 
 #### 🛜 ISP Hardware & System Infrastructure
+
 <p align="left">
   <img src="https://img.shields.io/badge/MikroTik-RouterOS-005C8A?style=flat-square&logo=MikroTik&logoColor=white" alt="MikroTik"/>
   <img src="https://img.shields.io/badge/Linux-Server-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
@@ -88,6 +89,7 @@ I host and maintain several public tools and services to assist network engineer
 - **Monitoring:** Smokeping, Uptime Kuma, Cacti, PRTG, Nagios, Zabbix, MRTG, Grafana, and Netdata with sub-minute intervals.
 
 #### 🔒 DNS Filtering & Security (TrustPositif)
+
 <p align="left">
   <img src="https://img.shields.io/badge/PowerDNS-Authoritative%20%7C%20Recursor-006FBA?style=flat-square&logo=powerdns&logoColor=white" alt="PowerDNS"/>
   <img src="https://img.shields.io/badge/BIND9-DNS%20Server-D22D2D?style=flat-square&logo=bind9&logoColor=white" alt="BIND9"/>
@@ -99,6 +101,7 @@ I host and maintain several public tools and services to assist network engineer
 - **RPZ Specialist:** Expert implementation of Response Policy Zone (RPZ) DNS firewalls and TrustPositif database (Kementerian Kominfo RI) conversion.
 
 #### ☁️ Hypervisors & Virtualization
+
 <p align="left">
   <img src="https://img.shields.io/badge/Proxmox-VE-E74C3C?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox"/>
   <img src="https://img.shields.io/badge/VMware-ESXi%20%7C%20vSphere-60707F?style=flat-square&logo=vmware&logoColor=white" alt="VMware"/>
@@ -110,6 +113,7 @@ I host and maintain several public tools and services to assist network engineer
 - **Orchestration:** High-Availability (HA) clustering, live VM migrations, resource tuning, and VM backup strategies.
 
 #### ✉️ Mail, SMTP Systems & Hosting Services
+
 <p align="left">
   <img src="https://img.shields.io/badge/Zimbra-Mail%20Server-F15A24?style=flat-square&logo=zimbra&logoColor=white" alt="Zimbra"/>
   <img src="https://img.shields.io/badge/cPanel%20%2F%20WHM-Hosting-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" alt="cPanel"/>
@@ -121,6 +125,7 @@ I host and maintain several public tools and services to assist network engineer
 - **Securing Mail:** DKIM, SPF, DMARC alignment, Rspamd, SpamAssassin, ClamAV, and custom anti-spam filters.
 
 #### 🍎 Apple Mac Services & Deployment
+
 <p align="left">
   <img src="https://img.shields.io/badge/Apple-Silicon%20M1%20%7C%20M2%20%7C%20M3-000000?style=flat-square&logo=apple&logoColor=white" alt="Apple Silicon"/>
   <img src="https://img.shields.io/badge/macOS-Deployment%20%26%20Diagnostics-007AFF?style=flat-square&logo=macos&logoColor=white" alt="macOS Deployment"/>
@@ -133,6 +138,7 @@ I host and maintain several public tools and services to assist network engineer
 ### 🚀 Highlighted Repositories
 
 #### 🛡️ DNS & TrustPositif Tools
+
 - 📦 **[TrustPositif-To-RPZ-Binary](https://github.com/alsyundawy/TrustPositif-To-RPZ-Binary)** [![Stars](https://img.shields.io/github/stars/alsyundawy/TrustPositif-To-RPZ-Binary?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/TrustPositif-To-RPZ-Binary)  
   *Converts Kominfo TrustPositif domains into DNS RPZ format. Features whitelist & Google SafeSearch helper.*  
   `Go` `DNS` `RPZ` `Blocklist`
@@ -156,6 +162,7 @@ I host and maintain several public tools and services to assist network engineer
   `Pi-hole` `AdGuard` `Blocklist`
 
 #### 🖥️ Diagnostics & Network Tools
+
 - 📦 **[php-looking-glass](https://github.com/alsyundawy/php-looking-glass)** [![Stars](https://img.shields.io/github/stars/alsyundawy/php-looking-glass?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/php-looking-glass)  
   *A professional, secure, single-file PHP Looking Glass for network diagnostics (Ping, Traceroute, MTR, WHOIS, DNS Lookup, Iperf3).*  
   `PHP` `Network` `Looking-Glass` `MTR`
@@ -179,6 +186,7 @@ I host and maintain several public tools and services to assist network engineer
   `PowerDNS` `Backup` `Database`
 
 #### 📦 System Tools & macOS Automations
+
 - 📦 **[Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)** [![Stars](https://img.shields.io/github/stars/alsyundawy/Microsoft-Office-For-MacOS?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)  
   *Complete Mac installer bundle for Microsoft Office (Intel/Apple Silicon) with LTSC serializer.*  
   `macOS` `Installer` `Office` `Apple-Silicon`
@@ -188,12 +196,18 @@ I host and maintain several public tools and services to assist network engineer
 - 📦 **[File-Directory-Browser](https://github.com/alsyundawy/File-Directory-Browser)** [![Stars](https://img.shields.io/github/stars/alsyundawy/File-Directory-Browser?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/File-Directory-Browser)  
   *PHP File browser featuring advanced security (CSRF protection, output sanitization, hash checks).*  
   `PHP` `Security` `File-Manager`
+- 📦 **[shc](https://github.com/alsyundawy/shc)** [![Stars](https://img.shields.io/github/stars/alsyundawy/shc?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/shc)  
+  *Generic Shell Script Compiler with Enhanced Security & Auditing. Encrypts and compiles shell scripts into stripped binary executables.*  
+  `C` `Shell` `Security` `Auditing` `Hardening`
 - 📦 **[Zimbra-Clean-Spam](https://github.com/alsyundawy/Zimbra-Clean-Spam)** [![Stars](https://img.shields.io/github/stars/alsyundawy/Zimbra-Clean-Spam?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/Zimbra-Clean-Spam)  
   *Scan and purge spam email queues caused by compromised accounts.*  
   `Zimbra` `Mail-Server` `Spam-Cleaner`
 - 📦 **[uninstall-zimbra](https://github.com/alsyundawy/uninstall-zimbra)** [![Stars](https://img.shields.io/github/stars/alsyundawy/uninstall-zimbra?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/uninstall-zimbra)  
   *Complete Bash utility to clean-uninstall Zimbra instances from Linux.*  
   `Zimbra` `Uninstaller` `Bash`
+- 📦 **[Z2C (Zimbra to Carbonio Migration)](https://github.com/alsyundawy/Z2C)** [![Stars](https://img.shields.io/github/stars/alsyundawy/Z2C?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/Z2C)  
+  *Zimbra to Carbonio Migration tool. A set of scripts to export domains, accounts, aliases, and mailboxes, supporting parallel migration.*  
+  `Shell` `Zimbra` `Carbonio` `Migration`
 - 📦 **[NotepadNext-MacOS](https://github.com/alsyundawy/NotepadNext-MacOS)** [![Stars](https://img.shields.io/github/stars/alsyundawy/NotepadNext-MacOS?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/NotepadNext-MacOS)  
   *Reimplementation of Notepad++ for macOS.*  
   `macOS` `NotepadNext` `Editor`
@@ -225,7 +239,10 @@ I host and maintain several public tools and services to assist network engineer
 <summary><b>📋 Documentation Notes & Changelog</b></summary>
 
 ### Version 2.2.0 (July 19, 2026)
-- **Visual Rebranding**: Added a custom, modern high-tech dark theme banner at the top (`banner.png`).
+
+- **Repository Integration**: Added audit-hardened shell compiler (`shc`) and `Zimbra to Carbonio Migration` (`Z2C`) to Highlighted Repositories.
+- **Standardized Formatting**: Cleaned up Markdown lint warnings (MD012, MD022, MD032, MD041) for optimal rendering and accessibility.
+- **Visual Rebranding**: Added a custom, modern high-tech dark theme banner at the top (`banner.jpeg`).
 - **Aesthetic Refinement**: Redesigned layout to utilize a professional double-column introduction.
 - **Collapsible QRIS**: Moved the QRIS donation layout into an elegant collapsible section to keep the main landing view clean.
 - **Dynamic Repository Badges**: Added live shields.io GitHub Star badges to all highlighted repositories.
@@ -233,6 +250,7 @@ I host and maintain several public tools and services to assist network engineer
 - **Interactive Emojis**: Replaced basic bullets with expressive, attractive, and professional emojis.
 
 ### Version 2.1.0 (July 5, 2026)
+
 - **Expanded Profile Data**: Integrated additional background and details from `alsyundawy.com`, including the user's self-styled identity as *System Administrator Magang / OpisBoy / Teknisi Mac & Server Keliling*.
 - **Comprehensive Repository Expansion**: Scraped GitHub and added missing highly starred and notable projects (`MIKROTIK-SCRIPT`, `CleanMyMacX-MAS`, `dns-blocklists`, `Sefinek-Blocklist-Collection`, `skipmdm-bypass`, `ufw-ipset-blocklist-autoupdate`, `PowerDNS-Zone-Backups`, `NotepadNext-MacOS`, `XiaomiADBFastbootTools-Win32`).
 - **Looking Glass Mirrors**: Added the multiple Looking Glass version endpoints (v2.0, v2.1, and GitHub version) in the live services table.
@@ -252,4 +270,3 @@ I host and maintain several public tools and services to assist network engineer
 <p align="center">
   <i>You Are Awesome • ༺ Harry DS Alsyundawy ༻ • Hardline & Militant Lying Around</i>
 </p>
-

@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 
 <p align="center">
-  <img src="./banner.png" alt="Initial H Profile Banner" width="100%">
+  <img src="./banner.jpeg" alt="Initial H Profile Banner" width="100%">
 </p>
 
 <h2 align="center">System Administrator &amp; DNS/ISP Infrastructure Specialist 🚀</h2>

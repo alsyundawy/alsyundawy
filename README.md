@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://www.paypal.me/alsyundawy"><img src="https://img.shields.io/badge/PayPal-Donate-orange?style=for-the-badge&logo=paypal" alt="Donate with PayPal"/></a>
+  <a href="https://ko-fi.com/alsyundawy"><img src="https://img.shields.io/badge/Ko--fi-Donate-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Donate with Ko-fi"/></a>
   <a href="https://github.com/sponsors/alsyundawy"><img src="https://img.shields.io/badge/GitHub-Sponsor-red?style=for-the-badge&logo=github-sponsors" alt="Sponsor with GitHub"/></a>
   <a href="https://wa.me/6285658515212"><img src="https://img.shields.io/badge/WhatsApp-Chat-success?style=for-the-badge&logo=whatsapp" alt="Chat on WhatsApp"/></a>
   <a href="https://t.me/alsyundawy"><img src="https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram" alt="Message on Telegram"/></a>

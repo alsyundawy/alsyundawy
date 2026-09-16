@@ -268,12 +268,12 @@ Curated enterprise tutorials, server architectures, and deployment guides from [
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alsyundawy&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.vercel.kevinazemi.com?user=alsyundawy&theme=tokyonight&locale=id&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alsyundawy&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com?user=alsyundawy&theme=tokyonight&locale=id&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=alsyundawy&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&include_all_commits=true&count_private=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=alsyundawy&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&include_all_commits=true&count_private=true" alt="Top Languages" height="180" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsyundawy&theme=tokyonight" alt="Profile Details" height="180" />
 </p>
 

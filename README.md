@@ -75,6 +75,7 @@ I host and maintain several public tools and services to assist network engineer
 | 🚦 **TrustPositif Check** | Real-time Komdigi TrustPositif domain blacklist query | 🟢 [trustcheck.alsyundawy.com ↗](https://trustcheck.alsyundawy.com/) |
 | 🗺️ **DNS Checker** | Global multi-server DNS propagation test | 🟢 [dnschecker.alsyundawy.com ↗](https://dnschecker.alsyundawy.com/) |
 | 📦 **Custom Repository** | Personal repo hosting configuration files & packages | 🟢 [repo.alsyundawy.com ↗](https://repo.alsyundawy.com/) |
+| 🧮 **Visual Subnet Calculator** | Visual IPv4 & IPv6 Subnet Planner, CIDR splitting/joining, cloud IP reservation (AWS/Azure/GCP/OCI) & zero server-side storage | 🟢 [alsyundawy.com/subnet ↗](https://alsyundawy.com/subnet/)<br>*(Mirror: [GitHub Pages ↗](https://alsyundawy.github.io/visualsubnetcalc/))* |
 
 ---
 
@@ -100,6 +101,8 @@ Curated enterprise tutorials, server architectures, and deployment guides from [
 | 🛡️ **VPN & Security** | **OpenVPN Road Warrior** | Deployment OpenVPN Road Warrior dual-stack IPv4/IPv6 dengan Unbound DNS resolver & security hardening | [Buka Panduan ↗](https://alsyundawy.com/OpenVPN-Install.html) |
 | 🚀 **ISP Services** | **Ookla Speedtest Server** | Deployment Ookla Speedtest Server produksi dengan konfigurasi Dual-Stack IPv4 & IPv6 dan systemd | [Buka Panduan ↗](https://alsyundawy.com/Ookla-Speedtest.html) |
 | 📡 **PTT & Telephony** | **WalkieFleet Server** | Panduan lengkap instalasi WalkieFleet Push-to-Talk (PTT) server pada Linux Debian & Ubuntu | [Buka Panduan ↗](https://alsyundawy.com/WalkieFleet.html) |
+| 🧪 **Network Lab** | **Install & Deploy PNETLab v8** | Panduan lengkap install, upgrade existing, dan deploy PNETLab v8 Unofficial di Ubuntu 26.04: dedicated mirror, held packages & UFW | [Buka Panduan ↗](https://alsyundawy.com/PNETLab-v8.html) |
+| 🧪 **Network Lab** | **PNETLab v4 · v5 · v6 Klasik** | Panduan lengkap install, upgrade berjenjang, dan deploy PNETLab klasik v4/v5/v6: Bionic & Focal dengan skrip rev3 & LabHub | [Buka Panduan ↗](https://alsyundawy.com/PNETLab-v4.html) |
 
 ---
 
@@ -169,6 +172,12 @@ Curated enterprise tutorials, server architectures, and deployment guides from [
 
 #### 🛡️ DNS Infrastructure & TrustPositif Tools
 
+- 📦 **[PHP-PDNSManager](https://github.com/alsyundawy/PHP-PDNSManager)** [![Stars](https://img.shields.io/github/stars/alsyundawy/PHP-PDNSManager?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/PHP-PDNSManager)<br>
+  *Enterprise DNS Management Web GUI & REST API Gateway for PowerDNS Authoritative Server — PHP 8.1+, PSR-compliant architecture, RBAC, and high-performance zone automation.*<br>
+  `PHP` `PowerDNS` `DNS` `REST-API` `Enterprise`
+- 📦 **[PHP-BindManager](https://github.com/alsyundawy/PHP-BindManager)** [![Stars](https://img.shields.io/github/stars/alsyundawy/PHP-BindManager?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/PHP-BindManager)<br>
+  *Enterprise-grade Web GUI for BIND9 DNS Server Management — PHP 8.4+, Bootstrap 5, Tailwind CSS, SQLite3, RBAC, DNSSEC, REST API.*<br>
+  `PHP` `BIND9` `DNS` `DNSSEC` `REST-API`
 - 📦 **[TrustPositif-To-RPZ-Binary](https://github.com/alsyundawy/TrustPositif-To-RPZ-Binary)** [![Stars](https://img.shields.io/github/stars/alsyundawy/TrustPositif-To-RPZ-Binary?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/TrustPositif-To-RPZ-Binary)<br>
   *Converts Kominfo TrustPositif domains into DNS RPZ format. Features whitelist & Google SafeSearch helper.*<br>
   `Go` `DNS` `RPZ` `Blocklist`
@@ -193,6 +202,9 @@ Curated enterprise tutorials, server architectures, and deployment guides from [
 
 #### 🖥️ Diagnostics, IPAM & Network Automation
 
+- 📦 **[bailu-kilo-agent](https://github.com/alsyundawy/bailu-kilo-agent)** [![Stars](https://img.shields.io/github/stars/alsyundawy/bailu-kilo-agent?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/bailu-kilo-agent)<br>
+  *Agentic coding sidebar for BAILU AI — Kilo-style panel, model picker, Auto, thinking mode, and API token integration for VS Code & Code-OSS forks.*<br>
+  `TypeScript` `VSCode` `AI-Agent` `Agentic-Coding` `Extension`
 - 📦 **[php-looking-glass](https://github.com/alsyundawy/php-looking-glass)** [![Stars](https://img.shields.io/github/stars/alsyundawy/php-looking-glass?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/php-looking-glass)<br>
   *A professional, secure, single-file PHP Looking Glass for network diagnostics (Ping, Traceroute, MTR, WHOIS, DNS Lookup, Iperf3).*<br>
   `PHP` `Network` `Looking-Glass` `MTR`
@@ -288,6 +300,18 @@ Curated enterprise tutorials, server architectures, and deployment guides from [
 
 <details>
 <summary><b>📋 Documentation Notes & Changelog</b></summary>
+
+### Version 2.4.0 (September 21, 2026)
+
+- **New Live Network Utility**: Added `Visual Subnet Calculator` (`alsyundawy.com/subnet`) with mirror (`alsyundawy.github.io/visualsubnetcalc`) for visual IPv4 & IPv6 CIDR/VLSM subnet planning and cloud IP reservation.
+- **New Technical Tutorials**: Integrated 2 comprehensive deployment guides from `alsyundawy.com`:
+  - `Install & Deploy PNETLab v8` (Ubuntu 26.04)
+  - `Install & Deploy PNETLab v4 · v5 · v6 Klasik` (Ubuntu Bionic & Focal)
+- **New Highlighted Repositories**: Integrated 3 production-grade open-source repositories:
+  - `PHP-PDNSManager` — Enterprise DNS Management Web GUI & REST API Gateway for PowerDNS.
+  - `bailu-kilo-agent` — Agentic coding sidebar for BAILU AI for VS Code & Code-OSS forks.
+  - `PHP-BindManager` — Enterprise-grade Web GUI for BIND9 DNS Server Management.
+- **Code Review & Quality Hardening**: Verified all 13 code review checklist dimensions (Bug, Syntax, Runtime, Logic, Memory, Dead Code, Duplicate Code, Circular Dependency, Performance Bottleneck, Security Vulnerability, Maintainability, Scalability, Readability) with zero defects.
 
 ### Version 2.3.0 (September 17, 2026)
 

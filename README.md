@@ -256,6 +256,12 @@ Curated enterprise tutorials, server architectures, and deployment guides from [
 
 #### ☁️ Hypervisors, macOS & System Utilities
 
+- 📦 **[Disable-MacOS-Updates](https://github.com/alsyundawy/Disable-MacOS-Updates)** [![Stars](https://img.shields.io/github/stars/alsyundawy/Disable-MacOS-Updates?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/Disable-MacOS-Updates)<br>
+  *Reversible Bash scripts to disable automatic software updates on macOS (Monterey to Golden Gate).*<br>
+  `macOS` `Bash` `Apple-Silicon` `DAW` `Sysadmin`
+- 📦 **[openssl-1.0.2](https://github.com/alsyundawy/openssl-1.0.2)** [![Stars](https://img.shields.io/github/stars/alsyundawy/openssl-1.0.2?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/openssl-1.0.2)<br>
+  *Production-grade security hardened fork and backported CVE mitigations for legacy OpenSSL 1.0.2 (up to 1.0.2zr).*<br>
+  `C` `OpenSSL` `Security` `Hardening` `CVE-Mitigation` `Backport`
 - 📦 **[esxi-unlocker-v4](https://github.com/alsyundawy/esxi-unlocker-v4)** [![Stars](https://img.shields.io/github/stars/alsyundawy/esxi-unlocker-v4?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/esxi-unlocker-v4)<br>
   *macOS Unlocker V4 for VMware ESXi. Enables Apple macOS guest support on VMware ESXi hypervisors with maintained shell/Python patching workflow and VMware Tools integration.*<br>
   `Python` `VMware` `ESXi` `macOS` `Hypervisor`
@@ -300,6 +306,13 @@ Curated enterprise tutorials, server architectures, and deployment guides from [
 
 <details>
 <summary><b>📋 Documentation Notes & Changelog</b></summary>
+
+### Version 2.5.0 (September 23, 2026)
+
+- **New Highlighted Repositories**: Integrated 2 production-grade open-source repositories:
+  - `Disable-MacOS-Updates` — Reversible Bash scripts to disable automatic software updates on macOS (Monterey to Golden Gate).
+  - `openssl-1.0.2` — Production-grade security hardened fork and backported CVE mitigations for legacy OpenSSL 1.0.2 (up to 1.0.2zr).
+- **Metadata Synchronization**: Harmonized repository descriptions and topics across GitHub metadata and portfolio indexes.
 
 ### Version 2.4.0 (September 21, 2026)
 

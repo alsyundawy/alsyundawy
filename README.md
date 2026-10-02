@@ -256,6 +256,12 @@ Curated enterprise tutorials, server architectures, and deployment guides from [
 
 #### ☁️ Hypervisors, macOS & System Utilities
 
+- 📦 **[pear-desktop-mac](https://github.com/alsyundawy/pear-desktop-mac)** [![Stars](https://img.shields.io/github/stars/alsyundawy/pear-desktop-mac?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/pear-desktop-mac)<br>
+  *High-performance, privacy-hardened macOS desktop client for YouTube Music with built-in ad blocker (27+ vendor filters), SponsorBlock, synced lyrics & native plugins.*<br>
+  `macOS` `Apple-Silicon` `YouTube-Music` `Electron` `TypeScript`
+- 📦 **[PnetLab-v8](https://github.com/alsyundawy/PnetLab-v8)** [![Stars](https://img.shields.io/github/stars/alsyundawy/PnetLab-v8?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/PnetLab-v8)<br>
+  *Enterprise network virtualization & emulation platform on Ubuntu 26.04 LTS (Resolute). Turn-key OVA, ISO, and Proxmox VE 8+ deployment guide.*<br>
+  `Ubuntu` `Proxmox` `Virtualization` `Network-Emulation` `PNETLab` `KVM`
 - 📦 **[Disable-MacOS-Updates](https://github.com/alsyundawy/Disable-MacOS-Updates)** [![Stars](https://img.shields.io/github/stars/alsyundawy/Disable-MacOS-Updates?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/Disable-MacOS-Updates)<br>
   *Reversible Bash scripts to disable automatic software updates on macOS (Monterey to Golden Gate).*<br>
   `macOS` `Bash` `Apple-Silicon` `DAW` `Sysadmin`
@@ -309,7 +315,9 @@ Curated enterprise tutorials, server architectures, and deployment guides from [
 
 ### Version 2.5.0 (September 23, 2026)
 
-- **New Highlighted Repositories**: Integrated 2 production-grade open-source repositories:
+- **New Highlighted Repositories**: Integrated production-grade open-source repositories:
+  - `pear-desktop-mac` — High-performance, privacy-hardened macOS desktop client for YouTube Music with built-in ad blocker (27+ vendor filters), SponsorBlock & synced lyrics.
+  - `PnetLab-v8` — Enterprise network virtualization & emulation platform on Ubuntu 26.04 LTS (Resolute) with turn-key Proxmox VE 8+ & VMware deployment.
   - `Disable-MacOS-Updates` — Reversible Bash scripts to disable automatic software updates on macOS (Monterey to Golden Gate).
   - `openssl-1.0.2` — Production-grade security hardened fork and backported CVE mitigations for legacy OpenSSL 1.0.2 (up to 1.0.2zr).
 - **Metadata Synchronization**: Harmonized repository descriptions and topics across GitHub metadata and portfolio indexes.

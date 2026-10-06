@@ -175,6 +175,9 @@ Curated enterprise tutorials, server architectures, and deployment guides from [
 - 📦 **[PHP-PDNSManager](https://github.com/alsyundawy/PHP-PDNSManager)** [![Stars](https://img.shields.io/github/stars/alsyundawy/PHP-PDNSManager?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/PHP-PDNSManager)<br>
   *Enterprise DNS Management Web GUI & REST API Gateway for PowerDNS Authoritative Server — PHP 8.1+, PSR-compliant architecture, RBAC, and high-performance zone automation.*<br>
   `PHP` `PowerDNS` `DNS` `REST-API` `Enterprise`
+- 📦 **[PowerDNS-Admin-PHP](https://github.com/alsyundawy/PowerDNS-Admin-PHP)** [![Stars](https://img.shields.io/github/stars/alsyundawy/PowerDNS-Admin-PHP?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/PowerDNS-Admin-PHP)<br>
+  *Enterprise Authoritative PowerDNS Web Control Plane in Native PHP & PDO — Zero external runtime frameworks, <1ms sub-millisecond bootstrap, 100% offline air-gapped Zero-CDN architecture, RFC 6238 TOTP 2FA, multi-server node clustering, APCu caching, and direct PowerDNS HTTP API v1 integration.*<br>
+  `PHP` `PowerDNS` `DNS` `Control-Plane` `Security` `REST-API`
 - 📦 **[PHP-BindManager](https://github.com/alsyundawy/PHP-BindManager)** [![Stars](https://img.shields.io/github/stars/alsyundawy/PHP-BindManager?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/PHP-BindManager)<br>
   *Enterprise-grade Web GUI for BIND9 DNS Server Management — PHP 8.4+, Bootstrap 5, Tailwind CSS, SQLite3, RBAC, DNSSEC, REST API.*<br>
   `PHP` `BIND9` `DNS` `DNSSEC` `REST-API`
@@ -211,6 +214,12 @@ Curated enterprise tutorials, server architectures, and deployment guides from [
 - 📦 **[visualsubnetcalc](https://github.com/alsyundawy/visualsubnetcalc)** [![Stars](https://img.shields.io/github/stars/alsyundawy/visualsubnetcalc?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/visualsubnetcalc)<br>
   *Visual Subnet Calculator — Modernized & Hardened Edition. Visual, interactive IPv4 subnet calculator and network design utility with real-time bit splitting, CIDR calculations, and network mapping.*<br>
   `TypeScript` `Networking` `Subnetting` `IPv4` `CIDR`
+- 📦 **[SubnetCalc-MacOS](https://github.com/alsyundawy/SubnetCalc-MacOS)** [![Stars](https://img.shields.io/github/stars/alsyundawy/SubnetCalc-MacOS?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/SubnetCalc-MacOS)<br>
+  *High-Performance, Native Swift & Cocoa IPv4 & IPv6 Subnet Calculator for macOS (Universal 2: Apple Silicon M1-M4 & Intel x64). Features 25 iconic developer theme suites, hierarchical menu navigation, CIDR/VLSM calculation, and wildcard masks.*<br>
+  `Swift` `macOS` `Apple-Silicon` `AppKit` `Cocoa` `Subnetting` `IPAM`
+- 📦 **[SubNetCalc-Electron](https://github.com/alsyundawy/SubNetCalc-Electron)** [![Stars](https://img.shields.io/github/stars/alsyundawy/SubNetCalc-Electron?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/SubNetCalc-Electron)<br>
+  *High-Precision, Low-Footprint IPv4 & IPv6 Subnet Calculator with 14 Multi-Themes for macOS & Cross-Platform desktop. Powered by Electron 44, Node 24, React 19, and TypeScript with real-time RFC classification and binary bit visualization.*<br>
+  `TypeScript` `Electron` `React` `Networking` `Subnetting` `Cross-Platform`
 - 📦 **[MIKROTIK-SCRIPT](https://github.com/alsyundawy/MIKROTIK-SCRIPT)** [![Stars](https://img.shields.io/github/stars/alsyundawy/MIKROTIK-SCRIPT?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/MIKROTIK-SCRIPT)<br>
   *Curated collection of useful Mikrotik scripting automations.*<br>
   `RouterOS` `MikroTik` `Automation`
@@ -312,6 +321,14 @@ Curated enterprise tutorials, server architectures, and deployment guides from [
 
 <details>
 <summary><b>📋 Documentation Notes & Changelog</b></summary>
+
+### Version 2.6.0 (October 6, 2026)
+
+- **New Highlighted Repositories**: Integrated 3 production-grade open-source repositories:
+  - `PowerDNS-Admin-PHP` — Enterprise Authoritative PowerDNS Web Control Plane in Native PHP & PDO with sub-millisecond bootstrap, Zero-CDN architecture, RFC 6238 TOTP 2FA & PowerDNS API v1 integration.
+  - `SubnetCalc-MacOS` — High-performance native Swift & AppKit Cocoa IPv4/IPv6 subnet calculator for macOS Universal 2 (Apple Silicon M1-M4 & Intel x64) with 25 developer theme suites.
+  - `SubNetCalc-Electron` — High-precision, low-footprint IPv4/IPv6 subnet calculator with 14 multi-themes for macOS and cross-platform desktop built with Electron 44, React 19 & TypeScript.
+- **Metadata Synchronization**: Harmonized repository descriptions, badges, and documentation across GitHub profile and portfolio indexes.
 
 ### Version 2.5.0 (September 23, 2026)
 

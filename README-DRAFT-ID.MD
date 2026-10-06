@@ -4,13 +4,23 @@
   <img src="./banner.jpeg" alt="Alsyundawy - System Administrator &amp; DNS/ISP Infrastructure Specialist" width="100%">
 </p>
 
-<h2 align="center">System Administrator &amp; DNS/ISP Infrastructure Specialist 🚀</h2>
+<h1 align="center">⚡ Alsyundawy</h1>
+
+<h3 align="center">System Administrator &amp; DNS/ISP Infrastructure Specialist 🚀</h3>
+
 <p align="center">
   <i>System Administrator Magang • Hypervisor, Mail &amp; DNS Infrastructure Specialist • Jakarta, ID</i>
 </p>
 
 <p align="center">
-  <a href="./README.md">English</a> • <b>Bahasa Indonesia</b>
+  <a href="./README-DRAFT.MD">English</a> • <b>Bahasa Indonesia</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status_Sistem-🟢_Semua_Layanan_Normal-0A2540?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status Sistem"/>
+  <img src="https://img.shields.io/badge/Infrastruktur-56+_Mitra_ISP-0070F3?style=for-the-badge&logo=serverfault&logoColor=white" alt="Mitra ISP"/>
+  <img src="https://img.shields.io/badge/Pengalaman-15+_Tahun-10B981?style=for-the-badge&logo=clockify&logoColor=white" alt="Pengalaman"/>
+  <img src="https://img.shields.io/badge/Keamanan-Zero--CDN_Hardened-6366F1?style=for-the-badge&logo=shield&logoColor=white" alt="Keamanan"/>
 </p>
 
 <p align="center">
@@ -24,6 +34,16 @@
   <a href="https://instagram.com/harry.ds.alsyundawy"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram"/></a>
   <a href="https://facebook.com/alsyundawy"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Follow on Facebook"/></a>
 </p>
+
+<div align="center">
+  <a href="#-about-me"><img src="https://img.shields.io/badge/📖_About_Me-1E293B?style=for-the-badge&logoColor=white" alt="About Me"/></a>
+  <a href="#-live-tools--services"><img src="https://img.shields.io/badge/🌐_Alat_Live-0284C7?style=for-the-badge&logoColor=white" alt="Alat Live"/></a>
+  <a href="#-technical-guides--tutorials"><img src="https://img.shields.io/badge/📚_Panduan-0D9488?style=for-the-badge&logoColor=white" alt="Panduan"/></a>
+  <a href="#-keahlian-teknis"><img src="https://img.shields.io/badge/🛠️_Tech_Stack-4F46E5?style=for-the-badge&logoColor=white" alt="Tech Stack"/></a>
+  <a href="#-highlighted-repositories"><img src="https://img.shields.io/badge/🚀_Repositori-9333EA?style=for-the-badge&logoColor=white" alt="Repositori"/></a>
+  <a href="#-klien--mitra-industri"><img src="https://img.shields.io/badge/🏢_Mitra_ISP-EA580C?style=for-the-badge&logoColor=white" alt="Mitra ISP"/></a>
+  <a href="#-statistik-github"><img src="https://img.shields.io/badge/📊_Analitik-E11D48?style=for-the-badge&logoColor=white" alt="Analitik"/></a>
+</div>
 
 ---
 

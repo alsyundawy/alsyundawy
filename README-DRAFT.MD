@@ -4,13 +4,23 @@
   <img src="./banner.jpeg" alt="Alsyundawy - System Administrator &amp; DNS/ISP Infrastructure Specialist" width="100%">
 </p>
 
-<h2 align="center">System Administrator &amp; DNS/ISP Infrastructure Specialist 🚀</h2>
+<h1 align="center">⚡ Alsyundawy</h1>
+
+<h3 align="center">System Administrator &amp; DNS/ISP Infrastructure Specialist 🚀</h3>
+
 <p align="center">
   <i>System Administrator Magang • Hypervisor, Mail &amp; DNS Infrastructure Specialist • Jakarta, ID</i>
 </p>
 
 <p align="center">
-  <b>English</b> • <a href="./README-ID.md">Bahasa Indonesia</a>
+  <b>English</b> • <a href="./README-DRAFT-ID.MD">Bahasa Indonesia</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Status-🟢_All_Services_Operational-0A2540?style=for-the-badge&logo=statuspage&logoColor=white" alt="System Status"/>
+  <img src="https://img.shields.io/badge/Infrastructure-56+_ISP_Partners-0070F3?style=for-the-badge&logo=serverfault&logoColor=white" alt="ISP Partners"/>
+  <img src="https://img.shields.io/badge/Experience-15+_Years-10B981?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Security-Zero--CDN_Hardened-6366F1?style=for-the-badge&logo=shield&logoColor=white" alt="Security"/>
 </p>
 
 <p align="center">
@@ -24,6 +34,16 @@
   <a href="https://instagram.com/harry.ds.alsyundawy"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram"/></a>
   <a href="https://facebook.com/alsyundawy"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Follow on Facebook"/></a>
 </p>
+
+<div align="center">
+  <a href="#-about-me"><img src="https://img.shields.io/badge/📖_About_Me-1E293B?style=for-the-badge&logoColor=white" alt="About Me"/></a>
+  <a href="#-live-tools--services"><img src="https://img.shields.io/badge/🌐_Live_Tools-0284C7?style=for-the-badge&logoColor=white" alt="Live Tools"/></a>
+  <a href="#-technical-guides--tutorials"><img src="https://img.shields.io/badge/📚_Guides-0D9488?style=for-the-badge&logoColor=white" alt="Guides"/></a>
+  <a href="#-technical-expertise"><img src="https://img.shields.io/badge/🛠️_Tech_Stack-4F46E5?style=for-the-badge&logoColor=white" alt="Tech Stack"/></a>
+  <a href="#-highlighted-repositories"><img src="https://img.shields.io/badge/🚀_Repositories-9333EA?style=for-the-badge&logoColor=white" alt="Repositories"/></a>
+  <a href="#-industry-partners--client-ecosystem"><img src="https://img.shields.io/badge/🏢_Partners-EA580C?style=for-the-badge&logoColor=white" alt="Partners"/></a>
+  <a href="#-github-analytics"><img src="https://img.shields.io/badge/📊_Analytics-E11D48?style=for-the-badge&logoColor=white" alt="Analytics"/></a>
+</div>
 
 ---
 

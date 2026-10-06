@@ -10,9 +10,13 @@
 </p>
 
 <p align="center">
+  <b>English</b> • <a href="./README-ID.md">Bahasa Indonesia</a>
+</p>
+
+<p align="center">
   <a href="https://alsyundawy.com"><img src="https://img.shields.io/badge/Website-alsyundawy.com-005C8A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="https://www.paypal.me/alsyundawy"><img src="https://img.shields.io/badge/PayPal-Donate-orange?style=for-the-badge&logo=paypal" alt="Donate with PayPal"/></a>
-  <a href="https://ko-fi.com/alsyundawy"><img src="https://img.shields.io/badge/Ko--fi-Donate-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Donate with Ko-fi"/></a>
+  <a href="#qris-donation"><img src="https://img.shields.io/badge/QRIS-Donate-EA1D2C?style=for-the-badge" alt="Donate with QRIS"/></a>
   <a href="https://github.com/sponsors/alsyundawy"><img src="https://img.shields.io/badge/GitHub-Sponsor-red?style=for-the-badge&logo=github-sponsors" alt="Sponsor with GitHub"/></a>
   <a href="https://wa.me/6285658515212"><img src="https://img.shields.io/badge/WhatsApp-Chat-success?style=for-the-badge&logo=whatsapp" alt="Chat on WhatsApp"/></a>
   <a href="https://t.me/alsyundawy"><img src="https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram" alt="Message on Telegram"/></a>
@@ -47,12 +51,16 @@
   </tr>
 </table>
 
+<a id="qris-donation"></a>
+
 <details>
-  <summary>💖 <b>Dukungan QRIS / Support Me</b> (Klik untuk berdonasi / Click to view QRIS)</summary>
+  <summary>💖 <b>QRIS Support / Dukungan QRIS</b> (Click to view QRIS payment barcode)</summary>
   <p align="center">
-    Jika Anda merasa terbantu dan ingin mendukung proyek ini, pertimbangkan untuk berdonasi melalui QRIS. Terima kasih atas dukungannya! 🙏
+    If you find my projects and guides helpful, consider supporting ongoing development via QRIS. Thank you for your support! 🙏
     <br><br>
-    <img width="350" alt="QRIS Donation" src="https://github.com/user-attachments/assets/a0126f28-6dde-43da-ba14-d7c9a27de0df" />
+    <a href="https://github.com/user-attachments/assets/a0126f28-6dde-43da-ba14-d7c9a27de0df">
+      <img width="350" alt="QRIS Donation" src="https://github.com/user-attachments/assets/a0126f28-6dde-43da-ba14-d7c9a27de0df" />
+    </a>
   </p>
 </details>
 
@@ -86,24 +94,24 @@ Curated enterprise tutorials, server architectures, and deployment guides from [
 
 | Category | Tutorial / Guide | Description | Guide Link |
 | :--- | :--- | :--- | :---: |
-| ✉️ **Mail Systems** | **Build Zimbra FOSS** | Panduan build Zimbra Collaboration 10.1.x FOSS dari source (zm-build) untuk Ubuntu 24.04 & Rocky 9 | [Buka Panduan ↗](https://alsyundawy.com/Build-Zimbra-FOSS.html) |
-| ✉️ **Mail Systems** | **Install Zimbra FOSS** | Instalasi Zimbra Collaboration 10.1.x FOSS di Ubuntu Server 24.04 LTS & Rocky Linux 9 / AlmaLinux 9 | [Buka Panduan ↗](https://alsyundawy.com/Install-Zimbra-FOSS.html) |
-| 🔒 **DNS & RPZ** | **TrustPositif To RPZ Binary** | Implementasi BIND9 DNS Filtering dengan RPZ TrustPositif Komdigi RI, WhiteList & Google SafeSearch | [Buka Panduan ↗](https://alsyundawy.com/TrustPositif-RPZ-Install.html) |
-| 🔒 **DNS & RPZ** | **PowerDNS-Admin (Debian 13)** | Konfigurasi Master-Slave PowerDNS Authoritative dengan PowerAdmin untuk redundansi DNS ISP | [Buka Panduan ↗](https://alsyundawy.com/PowerDNS-Admin-Debian.html) |
-| 🔒 **DNS & RPZ** | **PowerDNS-Admin (Ubuntu 22.04)** | Otomatisasi & deployment PowerDNS Authoritative MariaDB dengan PowerDNS-Admin Flask Web UI | [Buka Panduan ↗](https://alsyundawy.com/PowerDNS-Admin-Ubuntu.html) |
-| 🔒 **DNS & RPZ** | **PHP PowerAdmin** | PowerDNS Authoritative dengan Poweradmin UI untuk zone management, DNSSEC, dan REST API | [Buka Panduan ↗](https://alsyundawy.com/PowerAdmin.html) |
-| ☁️ **Hypervisors** | **Proxmox VE 9** | Panduan instalasi dan konfigurasi Proxmox VE 9 pada Debian/Ubuntu: cluster, storage, VM & LXC | [Buka Panduan ↗](https://alsyundawy.com/Proxmox-VE-9.html) |
-| ☁️ **Hypervisors** | **vSphere Unsupported HW** | Instalasi dan upgrade VMware vSphere / ESXi pada hardware server yang tidak didukung secara resmi | [Buka Panduan ↗](https://alsyundawy.com/vSphere.html) |
-| 📊 **Monitoring** | **Prometheus & Grafana** | Monitoring infrastruktur lengkap dengan Prometheus, Node Exporter, Grafana & Zabbix 7.0 LTS | [Buka Panduan ↗](https://alsyundawy.com/Prometheus-Grafana-Debian.html) |
-| 📊 **Monitoring** | **Cacti Monitoring Stack** | Instalasi Cacti network graphing tool pada Debian dengan Apache/Nginx pada root domain | [Buka Panduan ↗](https://alsyundawy.com/Cacti.html) |
-| 🛜 **Network & Tools** | **HyperGlass** | BGP Looking Glass modern Python dengan integrasi BIRD, FRR, OpenBGPD, Nginx reverse proxy & Redis | [Buka Panduan ↗](https://alsyundawy.com/HyperGlass.html) |
-| 🛜 **Network & Tools** | **PHP-LookingGlass** | Alat diagnostik jaringan single-file PHP untuk ping, traceroute, BGP route lookup & DNS resolution | [Buka Panduan ↗](https://alsyundawy.com/PHP-LookingGlass.html) |
-| 🛜 **Network & Tools** | **phpIPAM** | phpIPAM IP Address Management untuk alokasi IP, VLAN, subnetting, dan scanning jaringan otomatis | [Buka Panduan ↗](https://alsyundawy.com/phpIPAM.html) |
-| 🛡️ **VPN & Security** | **OpenVPN Road Warrior** | Deployment OpenVPN Road Warrior dual-stack IPv4/IPv6 dengan Unbound DNS resolver & security hardening | [Buka Panduan ↗](https://alsyundawy.com/OpenVPN-Install.html) |
-| 🚀 **ISP Services** | **Ookla Speedtest Server** | Deployment Ookla Speedtest Server produksi dengan konfigurasi Dual-Stack IPv4 & IPv6 dan systemd | [Buka Panduan ↗](https://alsyundawy.com/Ookla-Speedtest.html) |
-| 📡 **PTT & Telephony** | **WalkieFleet Server** | Panduan lengkap instalasi WalkieFleet Push-to-Talk (PTT) server pada Linux Debian & Ubuntu | [Buka Panduan ↗](https://alsyundawy.com/WalkieFleet.html) |
-| 🧪 **Network Lab** | **Install & Deploy PNETLab v8** | Panduan lengkap install, upgrade existing, dan deploy PNETLab v8 Unofficial di Ubuntu 26.04: dedicated mirror, held packages & UFW | [Buka Panduan ↗](https://alsyundawy.com/PNETLab-v8.html) |
-| 🧪 **Network Lab** | **PNETLab v4 · v5 · v6 Klasik** | Panduan lengkap install, upgrade berjenjang, dan deploy PNETLab klasik v4/v5/v6: Bionic & Focal dengan skrip rev3 & LabHub | [Buka Panduan ↗](https://alsyundawy.com/PNETLab-v4.html) |
+| ✉️ **Mail Systems** | **Build Zimbra FOSS** | Complete guide to building Zimbra Collaboration 10.1.x FOSS from source (zm-build) for Ubuntu 24.04 & Rocky 9 | [View Guide ↗](https://alsyundawy.com/Build-Zimbra-FOSS.html) |
+| ✉️ **Mail Systems** | **Install Zimbra FOSS** | Installation of Zimbra Collaboration 10.1.x FOSS on Ubuntu Server 24.04 LTS & Rocky Linux 9 / AlmaLinux 9 | [View Guide ↗](https://alsyundawy.com/Install-Zimbra-FOSS.html) |
+| 🔒 **DNS & RPZ** | **TrustPositif To RPZ Binary** | BIND9 DNS filtering implementation with Komdigi RI TrustPositif RPZ, Whitelist & Google SafeSearch | [View Guide ↗](https://alsyundawy.com/TrustPositif-RPZ-Install.html) |
+| 🔒 **DNS & RPZ** | **PowerDNS-Admin (Debian 13)** | Master-Slave PowerDNS Authoritative setup with PowerAdmin for ISP DNS redundancy | [View Guide ↗](https://alsyundawy.com/PowerDNS-Admin-Debian.html) |
+| 🔒 **DNS & RPZ** | **PowerDNS-Admin (Ubuntu 22.04)** | Automation & deployment of PowerDNS Authoritative MariaDB with PowerDNS-Admin Flask Web UI | [View Guide ↗](https://alsyundawy.com/PowerDNS-Admin-Ubuntu.html) |
+| 🔒 **DNS & RPZ** | **PHP PowerAdmin** | PowerDNS Authoritative with Poweradmin UI for zone management, DNSSEC, and REST API | [View Guide ↗](https://alsyundawy.com/PowerAdmin.html) |
+| ☁️ **Hypervisors** | **Proxmox VE 9** | Installation and configuration guide for Proxmox VE 9 on Debian/Ubuntu: cluster, storage, VM & LXC | [View Guide ↗](https://alsyundawy.com/Proxmox-VE-9.html) |
+| ☁️ **Hypervisors** | **vSphere Unsupported HW** | Installation and upgrade of VMware vSphere / ESXi on officially unsupported server hardware | [View Guide ↗](https://alsyundawy.com/vSphere.html) |
+| 📊 **Monitoring** | **Prometheus & Grafana** | Complete infrastructure monitoring with Prometheus, Node Exporter, Grafana & Zabbix 7.0 LTS | [View Guide ↗](https://alsyundawy.com/Prometheus-Grafana-Debian.html) |
+| 📊 **Monitoring** | **Cacti Monitoring Stack** | Installation of Cacti network graphing tool on Debian with Apache/Nginx on root domain | [View Guide ↗](https://alsyundawy.com/Cacti.html) |
+| 🛜 **Network & Tools** | **HyperGlass** | Modern Python BGP Looking Glass with BIRD, FRR, OpenBGPD, Nginx reverse proxy & Redis integration | [View Guide ↗](https://alsyundawy.com/HyperGlass.html) |
+| 🛜 **Network & Tools** | **PHP-LookingGlass** | Single-file PHP network diagnostic tool for ping, traceroute, BGP route lookup & DNS resolution | [View Guide ↗](https://alsyundawy.com/PHP-LookingGlass.html) |
+| 🛜 **Network & Tools** | **phpIPAM** | phpIPAM IP Address Management for IP allocation, VLAN, subnetting, and automated network scanning | [View Guide ↗](https://alsyundawy.com/phpIPAM.html) |
+| 🛡️ **VPN & Security** | **OpenVPN Road Warrior** | Deployment of OpenVPN Road Warrior dual-stack IPv4/IPv6 with Unbound DNS resolver & security hardening | [View Guide ↗](https://alsyundawy.com/OpenVPN-Install.html) |
+| 🚀 **ISP Services** | **Ookla Speedtest Server** | Production Ookla Speedtest Server deployment with dual-stack IPv4 & IPv6 configuration and systemd | [View Guide ↗](https://alsyundawy.com/Ookla-Speedtest.html) |
+| 📡 **PTT & Telephony** | **WalkieFleet Server** | Comprehensive guide to installing WalkieFleet Push-to-Talk (PTT) server on Linux Debian & Ubuntu | [View Guide ↗](https://alsyundawy.com/WalkieFleet.html) |
+| 🧪 **Network Lab** | **Install & Deploy PNETLab v8** | Comprehensive guide to install, upgrade, and deploy PNETLab v8 Unofficial on Ubuntu 26.04: dedicated mirror, held packages & UFW | [View Guide ↗](https://alsyundawy.com/PNETLab-v8.html) |
+| 🧪 **Network Lab** | **PNETLab v4 · v5 · v6 Klasik** | Comprehensive guide to install, stepwise upgrade, and deploy classic PNETLab v4/v5/v6: Bionic & Focal with rev3 script & LabHub | [View Guide ↗](https://alsyundawy.com/PNETLab-v4.html) |
 
 ---
 
@@ -345,7 +353,7 @@ Trusted by **56+ Internet Service Providers (ISPs), network operators, and enter
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alsyundawy&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com?user=alsyundawy&theme=tokyonight&locale=id&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180" />
+  <img src="https://streak-stats.demolab.com?user=alsyundawy&theme=tokyonight&locale=en&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
@@ -368,6 +376,8 @@ Trusted by **56+ Internet Service Providers (ISPs), network operators, and enter
 - **Enriched 40-Repository Showcase Matrix**: Integrated full catalog of 40 production repositories across DNS infrastructure, diagnostic telemetry, Zimbra collaboration suite, and hypervisor/macOS engineering (including `nginx-reverse-proxy-cluster`, `isp-billing-radius`, and `macos-pro-tweaks`).
 - **DevSecOps Pillar & 13-Pillar Security Invariants**: Added DevSecOps expertise pillar and detailed architectural security standards (strict CSP, SHA-384 SRI, zero-CDN, and Xiaomi/POCO anti-font boosting).
 - **Client Ecosystem Integration**: Documented operational footprint trusted by 56+ Internet Service Providers (ISPs) and enterprise partners in Indonesia.
+- **Bilingual Documentation**: Established default English specification (`README.md`) and Indonesian edition (`README-ID.md`).
+- **QRIS Donation Flow**: Replaced Ko-fi button with dedicated in-page QRIS donation anchor.
 - **Strict Linter Verification**: Validated 100% compliance across `markdownlint-cli` with 0 errors and 0 warnings.
 
 ### Version 2.6.0 (October 6, 2026)

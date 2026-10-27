@@ -321,6 +321,9 @@ Curated enterprise tutorials, server architectures, and deployment guides from [
 - 📦 **[NotepadNext-MacOS](https://github.com/alsyundawy/NotepadNext-MacOS)** [![Stars](https://img.shields.io/github/stars/alsyundawy/NotepadNext-MacOS?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/NotepadNext-MacOS)<br>
   *Reimplementation of Notepad++ for macOS.*<br>
   `macOS` `NotepadNext` `Editor`
+- 📦 **[SparkNotePad](https://github.com/alsyundawy/SparkNotePad)** [![Stars](https://img.shields.io/github/stars/alsyundawy/SparkNotePad?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/SparkNotePad)<br>
+  *Lightweight, blazing-fast native Scintilla & Qt text and source code editor for Linux and macOS. Engineered with ISO C++20, Qt 6, and Scintilla 5.6.7 / Lexilla 5.5.4 core for minimal memory footprint (<35MB), instant rendering, AES-256 encryption, and 75 developer themes.*<br>
+  `C++20` `Qt6` `Scintilla` `macOS` `Linux` `FreeBSD` `Code-Editor`
 - 📦 **[XiaomiADBFastbootTools-Win32](https://github.com/alsyundawy/XiaomiADBFastbootTools-Win32)** [![Stars](https://img.shields.io/github/stars/alsyundawy/XiaomiADBFastbootTools-Win32?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/XiaomiADBFastbootTools-Win32)<br>
   *ADB and fastboot tools optimized for Xiaomi devices on Windows.*<br>
   `Windows` `ADB` `Fastboot` `Xiaomi`
@@ -356,6 +359,11 @@ Trusted by **56+ Internet Service Providers (ISPs), network operators, and enter
 
 <details>
 <summary><b>📋 Documentation Notes & Changelog</b></summary>
+
+### Version 2.8.0 (October 28, 2026)
+
+- **New Highlighted Repository (SparkNotePad)**: Integrated `SparkNotePad` (`https://github.com/alsyundawy/SparkNotePad`) — lightweight, blazing-fast native Scintilla & Qt text and source code editor for Linux, macOS, and FreeBSD built with ISO C++20 and Qt 6.5–6.11, featuring Scintilla 5.6.7 / Lexilla 5.5.4 core, AES-256 document encryption, and 75 developer themes.
+- **Enriched 41-Repository Showcase Matrix**: Expanded production repository portfolio from 40 to 41 repositories across DNS, mail systems, diagnostic telemetry, and native desktop utilities.
 
 ### Version 2.7.0 (October 6, 2026)
 

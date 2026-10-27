@@ -321,6 +321,9 @@ Panduan teknis enterprise, arsitektur server, dan instalasi dari [alsyundawy.com
 - 📦 **[NotepadNext-MacOS](https://github.com/alsyundawy/NotepadNext-MacOS)** [![Stars](https://img.shields.io/github/stars/alsyundawy/NotepadNext-MacOS?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/NotepadNext-MacOS)<br>
   *Reimplementasi editor Notepad++ modern berbasis Qt untuk sistem operasi macOS.*<br>
   `macOS` `NotepadNext` `Editor`
+- 📦 **[SparkNotePad](https://github.com/alsyundawy/SparkNotePad)** [![Stars](https://img.shields.io/github/stars/alsyundawy/SparkNotePad?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/SparkNotePad)<br>
+  *Editor teks dan kode sumber native berkinerja tinggi berbasis Scintilla & Qt untuk Linux dan macOS. Diprogram dengan C++20, Qt 6, dan engine Scintilla 5.6.7 / Lexilla 5.5.4 untuk efisiensi memori (<35MB), perenderan baris instan, enkripsi dokumen AES-256, serta 75 tema pengembang.*<br>
+  `C++20` `Qt6` `Scintilla` `macOS` `Linux` `FreeBSD` `Code-Editor`
 - 📦 **[XiaomiADBFastbootTools-Win32](https://github.com/alsyundawy/XiaomiADBFastbootTools-Win32)** [![Stars](https://img.shields.io/github/stars/alsyundawy/XiaomiADBFastbootTools-Win32?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/XiaomiADBFastbootTools-Win32)<br>
   *Alat bantu ADB dan Fastboot yang dioptimalkan untuk perangkat Xiaomi Android pada lingkungan Windows.*<br>
   `Windows` `ADB` `Fastboot` `Xiaomi`
@@ -356,6 +359,11 @@ Dipercaya oleh **56+ penyedia jasa internet (ISP), operator jaringan, dan enterp
 
 <details>
 <summary><b>📋 Catatan Dokumentasi & Riwayat Perubahan</b></summary>
+
+### Version 2.8.0 (28 Oktober 2026)
+
+- **Repositori Unggulan Baru (SparkNotePad)**: Integrasi `SparkNotePad` (`https://github.com/alsyundawy/SparkNotePad`) — editor teks dan kode sumber native yang ringan dan cepat untuk Linux, macOS, dan FreeBSD dengan standar ISO C++20 dan framework Qt 6.5–6.11, ditenagai engine Scintilla 5.6.7 / Lexilla 5.5.4, enkripsi berkas AES-256, serta 75 tema pengembang.
+- **Katalog Lengkap 41 Repositori Produksi**: Memperluas showcase dari 40 menjadi 41 repositori open-source tingkat produksi.
 
 ### Version 2.7.0 (6 Oktober 2026)
 

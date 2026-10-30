@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 MD041 -->
+<!-- markdownlint-disable MD033 MD041 MD013 -->
 
 <p align="center">
   <img src="./banner.jpeg" alt="Alsyundawy - System Administrator &amp; DNS/ISP Infrastructure Specialist" width="100%">
@@ -188,9 +188,17 @@ Panduan teknis enterprise, arsitektur server, dan instalasi dari [alsyundawy.com
 
 ---
 
-### 🚀 Highlighted Repositories
+### 🚀 Portofolio Repositori Terkurasi (680+ Repositori Publik)
 
-#### 🛡️ DNS Infrastructure & TrustPositif Tools
+> 📊 **Matriks Portofolio:** **66** Repositori Murni / Original • **69** Fork dengan Kontribusi Nyata • **99+** Fork & Cermin Referensi Terpilih • **0** Arsip (Bebas dari Repositori Terarsip)
+
+---
+
+#### 🌟 Prioritas 1: Repositori Murni / Original (Karya Mandiri)
+
+*Sistem produksi enterprise, control plane DNS authoritative, utilitas lintas platform, dan otomatisasi mail server yang dibangun langsung dari nol oleh Harry DS Alsyundawy.*
+
+##### 🛡️ Infrastruktur DNS, RPZ & Intelijen Ancaman
 
 - 📦 **[PowerDNS-Admin-PHP](https://github.com/alsyundawy/PowerDNS-Admin-PHP)** [![Stars](https://img.shields.io/github/stars/alsyundawy/PowerDNS-Admin-PHP?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/PowerDNS-Admin-PHP)<br>
   *Control plane web PowerDNS Authoritative mandiri berbasis Native PHP & PDO — Tanpa framework eksternal, bootstrap sub-milidetik (<1ms), arsitektur Zero-CDN 100% offline, 2FA TOTP RFC 6238, kluster multi-server, cache APCu, dan integrasi langsung PowerDNS HTTP API v1.*<br>
@@ -202,8 +210,8 @@ Panduan teknis enterprise, arsitektur server, dan instalasi dari [alsyundawy.com
   *Web GUI modern pengelolaan server DNS BIND9 — PHP 8.4+, Bootstrap 5, Tailwind CSS, SQLite3, RBAC, DNSSEC, REST API.*<br>
   `PHP` `BIND9` `DNS` `DNSSEC` `REST-API`
 - 📦 **[TrustPositif-To-RPZ-Binary](https://github.com/alsyundawy/TrustPositif-To-RPZ-Binary)** [![Stars](https://img.shields.io/github/stars/alsyundawy/TrustPositif-To-RPZ-Binary?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/TrustPositif-To-RPZ-Binary)<br>
-  *Generator konversi domain TrustPositif Kominfo ke format DNS RPZ berkecepatan tinggi dengan whitelist & Google SafeSearch.*<br>
-  `Go` `DNS` `RPZ` `Blocklist`
+  *Generator konversi domain TrustPositif Kominfo ke format DNS RPZ biner berkecepatan tinggi dengan whitelist & Google SafeSearch.*<br>
+  `Go` `Shell` `DNS` `RPZ` `Blocklist`
 - 📦 **[TrustPositif](https://github.com/alsyundawy/TrustPositif)** [![Stars](https://img.shields.io/github/stars/alsyundawy/TrustPositif?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/TrustPositif)<br>
   *Database domain TrustPositif Kominfo terstandarisasi dengan pembaruan otomatis harian.*<br>
   `Database` `Kominfo` `Blocklist`
@@ -211,125 +219,269 @@ Panduan teknis enterprise, arsitektur server, dan instalasi dari [alsyundawy.com
   *Pipeline validasi dan agregasi domain berkinerja tinggi untuk TrustPositif/Komdigi dan daftar blokir publik. Tersertifikasi ShellCheck.*<br>
   `Shell` `Validator` `RFC-Compliant` `Punycode`
 - 📦 **[sunat-trustpositif](https://github.com/alsyundawy/sunat-trustpositif)** [![Stars](https://img.shields.io/github/stars/alsyundawy/sunat-trustpositif?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/sunat-trustpositif)<br>
-  *Skrip shell pembersih dan validasi daftar domain terhadap TLD resmi untuk database bersih.*<br>
+  *Skrip shell pembersih dan validasi daftar domain terhadap TLD resmi IANA untuk integritas database.*<br>
   `Shell` `TLD` `Data-Cleansing`
 - 📦 **[StevenBlack-Host-RPZ](https://github.com/alsyundawy/StevenBlack-Host-RPZ)** [![Stars](https://img.shields.io/github/stars/alsyundawy/StevenBlack-Host-RPZ?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/StevenBlack-Host-RPZ)<br>
   *Konverter daftar host StevenBlack ke format DNS RPZ.*<br>
   `DNS` `RPZ` `StevenBlack`
-- 📦 **[dns-blocklists](https://github.com/alsyundawy/dns-blocklists)** [![Stars](https://img.shields.io/github/stars/alsyundawy/dns-blocklists?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/dns-blocklists)<br>
-  *Fork feed filter DNS Hagezi untuk penjelajahan internet aman.*<br>
-  `DNS` `Blocklist` `Hagezi`
-- 📦 **[Sefinek-Blocklist-Collection](https://github.com/alsyundawy/Sefinek-Blocklist-Collection)** [![Stars](https://img.shields.io/github/stars/alsyundawy/Sefinek-Blocklist-Collection?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/Sefinek-Blocklist-Collection)<br>
-  *Kompilasi komprehensif daftar blokir untuk Pi-hole dan AdGuard dengan lebih dari 5 juta domain.*<br>
-  `Pi-hole` `AdGuard` `Blocklist`
-
-#### 🖥️ Diagnostics, IPAM & Network Automation
-
-- 📦 **[visualsubnetcalc](https://github.com/alsyundawy/visualsubnetcalc)** [![Stars](https://img.shields.io/github/stars/alsyundawy/visualsubnetcalc?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/visualsubnetcalc)<br>
-  *Kalkulator Subnet Visual — Edisi Modern & Diperkeras. Kalkulator subnet IPv4 interaktif dan utilitas desain jaringan dengan pembagian bit real-time.*<br>
-  `TypeScript` `Networking` `Subnetting` `IPv4` `CIDR`
-- 📦 **[SubnetCalc-MacOS](https://github.com/alsyundawy/SubnetCalc-MacOS)** [![Stars](https://img.shields.io/github/stars/alsyundawy/SubnetCalc-MacOS?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/SubnetCalc-MacOS)<br>
-  *Kalkulator subnet IPv4 & IPv6 native Swift & Cocoa AppKit berkinerja tinggi untuk macOS (Universal 2: M1-M4 & Intel). Dilengkapi 25 tema pengembang.*<br>
-  `Swift` `macOS` `Apple-Silicon` `AppKit` `Cocoa` `Subnetting` `IPAM`
-- 📦 **[SubNetCalc-Electron](https://github.com/alsyundawy/SubNetCalc-Electron)** [![Stars](https://img.shields.io/github/stars/alsyundawy/SubNetCalc-Electron?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/SubNetCalc-Electron)<br>
-  *Kalkulator subnet desktop presisi tinggi dengan 14 multi-tema untuk macOS dan lintas platform. Ditenagai Electron 44, React 19, dan TypeScript.*<br>
-  `TypeScript` `Electron` `React` `Networking` `Subnetting` `Cross-Platform`
-- 📦 **[bailu-kilo-agent](https://github.com/alsyundawy/bailu-kilo-agent)** [![Stars](https://img.shields.io/github/stars/alsyundawy/bailu-kilo-agent?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/bailu-kilo-agent)<br>
-  *Panel bilah sisi agentic coding untuk BAILU AI — panel gaya Kilo, pemilih model, mode pemikiran, dan token API untuk VS Code.*<br>
-  `TypeScript` `VSCode` `AI-Agent` `Agentic-Coding` `Extension`
-- 📦 **[php-looking-glass](https://github.com/alsyundawy/php-looking-glass)** [![Stars](https://img.shields.io/github/stars/alsyundawy/php-looking-glass?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/php-looking-glass)<br>
-  *Looking Glass PHP single-file profesional dan aman untuk diagnostik jaringan (Ping, Traceroute, MTR, WHOIS, DNS, Iperf3).*<br>
-  `PHP` `Network` `Looking-Glass` `MTR`
-- 📦 **[MIKROTIK-SCRIPT](https://github.com/alsyundawy/MIKROTIK-SCRIPT)** [![Stars](https://img.shields.io/github/stars/alsyundawy/MIKROTIK-SCRIPT?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/MIKROTIK-SCRIPT)<br>
-  *Koleksi skrip otomatisasi praktis untuk MikroTik RouterOS.*<br>
-  `RouterOS` `MikroTik` `Automation`
-- 📦 **[mikrotik-blacklist](https://github.com/alsyundawy/mikrotik-blacklist)** [![Stars](https://img.shields.io/github/stars/alsyundawy/mikrotik-blacklist?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/mikrotik-blacklist)<br>
-  *Skrip RouterOS untuk pembaruan daftar hitam ancaman keamanan secara otomatis.*<br>
-  `RouterOS` `Blacklist` `Security`
-- 📦 **[bind-acl-indonesia-openixp](https://github.com/alsyundawy/bind-acl-indonesia-openixp)** [![Stars](https://img.shields.io/github/stars/alsyundawy/bind-acl-indonesia-openixp?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/bind-acl-indonesia-openixp)<br>
-  *Pembuat otomatis berkas ACL IP alokasi Indonesia dan OpenIXP untuk mengamankan rekursi DNS BIND9.*<br>
-  `BIND9` `ACL` `OpenIXP` `APNIC`
-- 📦 **[dnsperftest](https://github.com/alsyundawy/dnsperftest)** [![Stars](https://img.shields.io/github/stars/alsyundawy/dnsperftest?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/dnsperftest)<br>
-  *Alat tolok ukur komprehensif performa dan latensi resolver DNS.*<br>
-  `DNS` `Benchmark` `Latency`
-- 📦 **[ufw-ipset-blocklist-autoupdate](https://github.com/alsyundawy/ufw-ipset-blocklist-autoupdate)** [![Stars](https://img.shields.io/github/stars/alsyundawy/ufw-ipset-blocklist-autoupdate?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/ufw-ipset-blocklist-autoupdate)<br>
-  *Pembaruan otomatis daftar blokir IP berbahaya pada firewall Linux menggunakan ipset dan ufw.*<br>
-  `UFW` `Ipset` `Security`
 - 📦 **[PowerDNS-Zone-Backups](https://github.com/alsyundawy/PowerDNS-Zone-Backups)** [![Stars](https://img.shields.io/github/stars/alsyundawy/PowerDNS-Zone-Backups?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/PowerDNS-Zone-Backups)<br>
   *Solusi backup zona PowerDNS otomatis dengan rotasi backup inkremental.*<br>
   `PowerDNS` `Backup` `Database`
-- 📦 **[nginx-reverse-proxy-cluster](https://github.com/alsyundawy/nginx-reverse-proxy-cluster)** [![Stars](https://img.shields.io/github/stars/alsyundawy/nginx-reverse-proxy-cluster?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/nginx-reverse-proxy-cluster)<br>
-  *Arsitektur kluster load balancing dan reverse proxy Nginx ketersediaan tinggi dengan terminasi SSL dan pembatasan laju trafik.*<br>
-  `Nginx` `Reverse-Proxy` `Load-Balancing` `High-Availability` `Security`
-- 📦 **[isp-billing-radius](https://github.com/alsyundawy/isp-billing-radius)** [![Stars](https://img.shields.io/github/stars/alsyundawy/isp-billing-radius?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/isp-billing-radius)<br>
-  *Modul integrasi FreeRADIUS dan API MikroTik untuk otomatisasi provisi bandwidth dan penagihan pelanggan ISP.*<br>
-  `FreeRADIUS` `MikroTik` `ISP` `Billing` `Network-Engineering`
+- 📦 **[bind-acl-indonesia-openixp](https://github.com/alsyundawy/bind-acl-indonesia-openixp)** [![Stars](https://img.shields.io/github/stars/alsyundawy/bind-acl-indonesia-openixp?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/bind-acl-indonesia-openixp)<br>
+  *Pembuat otomatis berkas ACL IP alokasi Indonesia dan OpenIXP untuk mengamankan rekursi DNS BIND9.*<br>
+  `BIND9` `ACL` `OpenIXP` `APNIC`
+- 📦 **[IP2RPZ](https://github.com/alsyundawy/IP2RPZ)** [![Stars](https://img.shields.io/github/stars/alsyundawy/IP2RPZ?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/IP2RPZ)<br>
+  *Utilitas C berkecepatan tinggi untuk mengonversi daftar feed ancaman IP menjadi aturan firewall DNS RPZ.*<br>
+  `C` `DNS` `RPZ` `Firewall`
+- 📦 **[dnstrust-apjii](https://github.com/alsyundawy/dnstrust-apjii)** [![Stars](https://img.shields.io/github/stars/alsyundawy/dnstrust-apjii?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/dnstrust-apjii)<br>
+  *Database DNS-Trust BIND9 || DNS Bersih TrustPositif APJII.*<br>
+  `DNS` `BIND9` `APJII` `TrustPositif`
 
-#### ✉️ Mail Systems & Zimbra Collaboration Suite
+##### 🖥️ Diagnostik, Telemetri, Subnetting & IPAM
+
+- 📦 **[php-looking-glass](https://github.com/alsyundawy/php-looking-glass)** [![Stars](https://img.shields.io/github/stars/alsyundawy/php-looking-glass?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/php-looking-glass)<br>
+  *Looking Glass PHP single-file profesional dan aman untuk diagnostik jaringan (Ping, Traceroute, MTR, WHOIS, DNS, Iperf3).*<br>
+  `PHP` `Network` `Looking-Glass` `MTR`
+- 📦 **[SubNetCalc-Electron](https://github.com/alsyundawy/SubNetCalc-Electron)** [![Stars](https://img.shields.io/github/stars/alsyundawy/SubNetCalc-Electron?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/SubNetCalc-Electron)<br>
+  *Kalkulator subnet desktop presisi tinggi dengan 14 multi-tema untuk macOS dan lintas platform. Ditenagai Electron 44, React 19, dan TypeScript dengan klasifikasi RFC real-time.*<br>
+  `TypeScript` `Electron` `React` `Networking` `Subnetting` `Cross-Platform`
+- 📦 **[SubnetCalc-Windows](https://github.com/alsyundawy/SubnetCalc-Windows)** [![Stars](https://img.shields.io/github/stars/alsyundawy/SubnetCalc-Windows?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/SubnetCalc-Windows)<br>
+  *Kalkulator subnet IPv4 & IPv6 native C11 & Win32 berkinerja tinggi untuk Windows (x86/x64) dengan perenderan memori instan dan ragam tema.*<br>
+  `C` `Win32` `Subnetting` `Networking` `Windows`
+- 📦 **[dnsperftest](https://github.com/alsyundawy/dnsperftest)** [![Stars](https://img.shields.io/github/stars/alsyundawy/dnsperftest?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/dnsperftest)<br>
+  *Alat tolok ukur komprehensif performa dan latensi resolver DNS publik.*<br>
+  `Shell` `DNS` `Benchmark` `Latency`
+- 📦 **[File-Directory-Browser](https://github.com/alsyundawy/File-Directory-Browser)** [![Stars](https://img.shields.io/github/stars/alsyundawy/File-Directory-Browser?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/File-Directory-Browser)<br>
+  *File browser PHP ringan dan diperkeras dengan proteksi CSRF, sanitasi output, dan verifikasi hash SHA-256.*<br>
+  `PHP` `Security` `File-Manager`
+- 📦 **[bailu-kilo-agent](https://github.com/alsyundawy/bailu-kilo-agent)** [![Stars](https://img.shields.io/github/stars/alsyundawy/bailu-kilo-agent?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/bailu-kilo-agent)<br>
+  *Panel bilah sisi agentic coding untuk BAILU AI — panel gaya Kilo, pemilih model, mode pemikiran, dan token API untuk VS Code.*<br>
+  `TypeScript` `VSCode` `AI-Agent` `Agentic-Coding` `Extension`
+
+##### ✉️ Sistem Email & Zimbra Collaboration Suite
 
 - 📦 **[eradicate-zimbra-malware](https://github.com/alsyundawy/eradicate-zimbra-malware)** [![Stars](https://img.shields.io/github/stars/alsyundawy/eradicate-zimbra-malware?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/eradicate-zimbra-malware)<br>
   *Suite respons insiden forensik enterprise, anti-ransomware, karantina webshell poliglota & perbaikan hak akses Zimbra.*<br>
   `Shell` `Security` `Forensics` `Zimbra` `Incident-Response`
 - 📦 **[Zimbra-Link-Installer](https://github.com/alsyundawy/Zimbra-Link-Installer)** [![Stars](https://img.shields.io/github/stars/alsyundawy/Zimbra-Link-Installer?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/Zimbra-Link-Installer)<br>
-  *Arsip lengkap binary dan installer Zimbra Collaboration Suite resmi dan komunitas dengan verifikasi checksum kriptografis.*<br>
+  *Arsip lengkap binary dan installer Zimbra Collaboration Suite (ZCS 4.5.x – 10.1.x) resmi dan komunitas dengan verifikasi checksum kriptografis.*<br>
   `Shell` `HTML` `Zimbra` `Installer` `Mail-Server`
-- 📦 **[Zimbra2Zimbra-Migration-Tool](https://github.com/alsyundawy/Zimbra2Zimbra-Migration-Tool)** [![Stars](https://img.shields.io/github/stars/alsyundawy/Zimbra2Zimbra-Migration-Tool?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/Zimbra2Zimbra-Migration-Tool)<br>
-  *Mesin migrasi Zimbra-ke-Zimbra (Z2Z) enterprise lintas versi tanpa kehilangan data atau kendala batas waktu.*<br>
-  `Shell` `Zimbra` `Migration` `Backup` `Mail-Server`
-- 📦 **[zmbackup](https://github.com/alsyundawy/zmbackup)** [![Stars](https://img.shields.io/github/stars/alsyundawy/zmbackup?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/zmbackup)<br>
-  *Solusi hot backup multi-threaded, pemulihan instan, dan migrasi lintas OS untuk Zimbra Collaboration Suite & Carbonio.*<br>
-  `Shell` `Zimbra` `Backup` `Disaster-Recovery` `Migration`
 - 📦 **[Z2C (Zimbra to Carbonio Migration)](https://github.com/alsyundawy/Z2C)** [![Stars](https://img.shields.io/github/stars/alsyundawy/Z2C?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/Z2C)<br>
   *Alat migrasi Zimbra ke Carbonio untuk ekspor domain, akun, alias, dan mailbox secara paralel.*<br>
   `Shell` `Zimbra` `Carbonio` `Migration`
-- 📦 **[Zimbra-Clean-Spam](https://github.com/alsyundawy/Zimbra-Clean-Spam)** [![Stars](https://img.shields.io/github/stars/alsyundawy/Zimbra-Clean-Spam?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/Zimbra-Clean-Spam)<br>
-  *Pindai dan bersihkan antrian email spam yang disebabkan oleh akun terkompromi.*<br>
-  `Zimbra` `Mail-Server` `Spam-Cleaner`
+- 📦 **[cmbackup](https://github.com/alsyundawy/cmbackup)** [![Stars](https://img.shields.io/github/stars/alsyundawy/cmbackup?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/cmbackup)<br>
+  *Mesin hot backup, restore, dan migrasi generasi terbaru dari Zimbra ke Carbonio.*<br>
+  `Shell` `Carbonio` `Zimbra` `Backup`
 - 📦 **[uninstall-zimbra](https://github.com/alsyundawy/uninstall-zimbra)** [![Stars](https://img.shields.io/github/stars/alsyundawy/uninstall-zimbra?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/uninstall-zimbra)<br>
   *Utilitas Bash lengkap untuk mencopot pemasangan Zimbra secara bersih dari server Linux.*<br>
   `Zimbra` `Uninstaller` `Bash`
+- 📦 **[Zimbra-Clean-Spam](https://github.com/alsyundawy/Zimbra-Clean-Spam)** [![Stars](https://img.shields.io/github/stars/alsyundawy/Zimbra-Clean-Spam?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/Zimbra-Clean-Spam)<br>
+  *Pindai dan bersihkan antrian email spam yang disebabkan oleh akun terkompromi.*<br>
+  `Zimbra` `Mail-Server` `Spam-Cleaner`
 
-#### ☁️ Hypervisors, macOS & System Utilities
+##### ☁️ Aplikasi Desktop, macOS, Hypervisor & Utilitas Sistem
 
-- 📦 **[pear-desktop-mac](https://github.com/alsyundawy/pear-desktop-mac)** [![Stars](https://img.shields.io/github/stars/alsyundawy/pear-desktop-mac?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/pear-desktop-mac)<br>
-  *Klien desktop macOS berkinerja tinggi untuk YouTube Music dengan pemblokir iklan bawaan, SponsorBlock, dan lirik tersinkronisasi.*<br>
-  `macOS` `Apple-Silicon` `YouTube-Music` `Electron` `TypeScript`
-- 📦 **[PnetLab-v8](https://github.com/alsyundawy/PnetLab-v8)** [![Stars](https://img.shields.io/github/stars/alsyundawy/PnetLab-v8?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/PnetLab-v8)<br>
-  *Platform virtualisasi dan emulasi jaringan enterprise berbasis Ubuntu 26.04 LTS dengan panduan deployment Proxmox VE 8+ & VMware.*<br>
-  `Ubuntu` `Proxmox` `Virtualization` `Network-Emulation` `PNETLab` `KVM`
-- 📦 **[Disable-MacOS-Updates](https://github.com/alsyundawy/Disable-MacOS-Updates)** [![Stars](https://img.shields.io/github/stars/alsyundawy/Disable-MacOS-Updates?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/Disable-MacOS-Updates)<br>
-  *Skrip Bash reversibel untuk menonaktifkan pembaruan perangkat lunak otomatis pada macOS (Monterey hingga Golden Gate).*<br>
-  `macOS` `Bash` `Apple-Silicon` `DAW` `Sysadmin`
-- 📦 **[openssl-1.0.2](https://github.com/alsyundawy/openssl-1.0.2)** [![Stars](https://img.shields.io/github/stars/alsyundawy/openssl-1.0.2?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/openssl-1.0.2)<br>
-  *Fork keamanan produksi dengan mitigasi CVE yang di-backport untuk sistem OpenSSL 1.0.2 warisan.*<br>
-  `C` `OpenSSL` `Security` `Hardening` `CVE-Mitigation` `Backport`
-- 📦 **[esxi-unlocker-v4](https://github.com/alsyundawy/esxi-unlocker-v4)** [![Stars](https://img.shields.io/github/stars/alsyundawy/esxi-unlocker-v4?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/esxi-unlocker-v4)<br>
-  *macOS Unlocker V4 untuk VMware ESXi. Memungkinkan dukungan guest OS macOS pada hypervisor server VMware ESXi.*<br>
-  `Python` `VMware` `ESXi` `macOS` `Hypervisor`
 - 📦 **[Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)** [![Stars](https://img.shields.io/github/stars/alsyundawy/Microsoft-Office-For-MacOS?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)<br>
   *Paket installer lengkap Microsoft Office untuk Mac (Intel & Apple Silicon) dengan serializer volume LTSC.*<br>
-  `macOS` `Installer` `Office` `Apple-Silicon`
-- 📦 **[skipmdm-bypass](https://github.com/alsyundawy/skipmdm-bypass)** [![Stars](https://img.shields.io/github/stars/alsyundawy/skipmdm-bypass?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/skipmdm-bypass)<br>
-  *Skrip bypass profil manajemen perangkat Mobile Device Management (MDM) otomatis untuk macOS.*<br>
-  `macOS` `MDM-Bypass` `Shell`
-- 📦 **[shc](https://github.com/alsyundawy/shc)** [![Stars](https://img.shields.io/github/stars/alsyundawy/shc?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/shc)<br>
-  *Kompiler Shell Script Generik dengan Peningkatan Keamanan & Audit. Mengenkripsi skrip shell menjadi biner executable.*<br>
-  `C` `Shell` `Security` `Auditing` `Hardening`
-- 📦 **[File-Directory-Browser](https://github.com/alsyundawy/File-Directory-Browser)** [![Stars](https://img.shields.io/github/stars/alsyundawy/File-Directory-Browser?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/File-Directory-Browser)<br>
-  *File browser PHP dengan keamanan tingkat lanjut (proteksi CSRF, sanitasi output, pemeriksaan hash).*<br>
-  `PHP` `Security` `File-Manager`
-- 📦 **[NotepadNext-MacOS](https://github.com/alsyundawy/NotepadNext-MacOS)** [![Stars](https://img.shields.io/github/stars/alsyundawy/NotepadNext-MacOS?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/NotepadNext-MacOS)<br>
-  *Reimplementasi editor Notepad++ modern berbasis Qt untuk sistem operasi macOS.*<br>
-  `macOS` `NotepadNext` `Editor`
+  `Shell` `macOS` `Installer` `Office` `Apple-Silicon`
 - 📦 **[SparkNotePad](https://github.com/alsyundawy/SparkNotePad)** [![Stars](https://img.shields.io/github/stars/alsyundawy/SparkNotePad?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/SparkNotePad)<br>
   *Editor teks dan kode sumber native berkinerja tinggi berbasis Scintilla & Qt untuk Linux dan macOS. Diprogram dengan C++20, Qt 6, dan engine Scintilla 5.6.7 / Lexilla 5.5.4 untuk efisiensi memori (<35MB), perenderan baris instan, enkripsi dokumen AES-256, serta 75 tema pengembang.*<br>
   `C++20` `Qt6` `Scintilla` `macOS` `Linux` `FreeBSD` `Code-Editor`
 - 📦 **[XiaomiADBFastbootTools-Win32](https://github.com/alsyundawy/XiaomiADBFastbootTools-Win32)** [![Stars](https://img.shields.io/github/stars/alsyundawy/XiaomiADBFastbootTools-Win32?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/XiaomiADBFastbootTools-Win32)<br>
   *Alat bantu ADB dan Fastboot yang dioptimalkan untuk perangkat Xiaomi Android pada lingkungan Windows.*<br>
-  `Windows` `ADB` `Fastboot` `Xiaomi`
-- 📦 **[macos-pro-tweaks](https://github.com/alsyundawy/macos-pro-tweaks)** [![Stars](https://img.shields.io/github/stars/alsyundawy/macos-pro-tweaks?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/macos-pro-tweaks)<br>
-  *Kumpulan skrip konfigurasi lingkungan kerja pengembang, tuning sistem operasi, dan setelan tersembunyi macOS.*<br>
-  `macOS` `Shell` `Developer-Tools` `System-Tuning` `Automation`
+  `C#` `Windows` `ADB` `Fastboot` `Xiaomi`
+- 📦 **[PnetLab-v8](https://github.com/alsyundawy/PnetLab-v8)** [![Stars](https://img.shields.io/github/stars/alsyundawy/PnetLab-v8?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/PnetLab-v8)<br>
+  *Platform virtualisasi dan emulasi jaringan enterprise berbasis Ubuntu 26.04 LTS dengan panduan deployment Proxmox VE 8+ & VMware.*<br>
+  `Ubuntu` `Proxmox` `Virtualization` `Network-Emulation` `PNETLab` `KVM`
+- 📦 **[NotepadNext-MacOS](https://github.com/alsyundawy/NotepadNext-MacOS)** [![Stars](https://img.shields.io/github/stars/alsyundawy/NotepadNext-MacOS?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/NotepadNext-MacOS)<br>
+  *Reimplementasi editor Notepad++ modern berbasis Qt untuk sistem operasi macOS.*<br>
+  `C++` `macOS` `NotepadNext` `Editor` `Qt6`
+- 📦 **[openssl-1.0.2](https://github.com/alsyundawy/openssl-1.0.2)** [![Stars](https://img.shields.io/github/stars/alsyundawy/openssl-1.0.2?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/openssl-1.0.2)<br>
+  *Fork keamanan produksi dengan mitigasi CVE yang di-backport untuk sistem OpenSSL 1.0.2 warisan.*<br>
+  `C` `OpenSSL` `Security` `Hardening` `CVE-Mitigation` `Backport`
+- 📦 **[Disable-MacOS-Updates](https://github.com/alsyundawy/Disable-MacOS-Updates)** [![Stars](https://img.shields.io/github/stars/alsyundawy/Disable-MacOS-Updates?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/Disable-MacOS-Updates)<br>
+  *Skrip Bash reversibel untuk menonaktifkan pembaruan perangkat lunak otomatis pada macOS (Monterey hingga Golden Gate).*<br>
+  `macOS` `Bash` `Apple-Silicon` `DAW` `Sysadmin`
+- 📦 **[mikrotik-blacklist](https://github.com/alsyundawy/mikrotik-blacklist)** [![Stars](https://img.shields.io/github/stars/alsyundawy/mikrotik-blacklist?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/mikrotik-blacklist)<br>
+  *Skrip RouterOS untuk pembaruan daftar hitam ancaman keamanan secara otomatis.*<br>
+  `RouterOS` `Blacklist` `Security`
+
+---
+
+#### 🛠️ Prioritas 2: Fork yang Dimodifikasi & Dikontribusikan (Active Contributed Forks)
+
+*Repositori hulu open-source di mana Harry DS Alsyundawy berkontribusi secara nyata melalui komit langsung, penambalan keamanan, dan kustomisasi enterprise.*
+
+- 📦 **[PowerDNS-Admin](https://github.com/alsyundawy/PowerDNS-Admin)** [![Stars](https://img.shields.io/github/stars/alsyundawy/PowerDNS-Admin?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/PowerDNS-Admin) `[136 Komit]`<br>
+  *Web control panel untuk PowerDNS Authoritative Server dengan optimasi koneksi MariaDB, integrasi LDAP, dan peningkatan GUI.*<br>
+  `Python` `PowerDNS` `DNS` `Web-GUI` `Enterprise`
+- 📦 **[shc](https://github.com/alsyundawy/shc)** [![Stars](https://img.shields.io/github/stars/alsyundawy/shc?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/shc) `[54 Komit]`<br>
+  *Kompiler Shell Script Generik dengan Peningkatan Keamanan & Audit. Mengenkripsi skrip shell menjadi biner executable stripped.*<br>
+  `C` `Shell` `Security` `Auditing` `Hardening`
+- 📦 **[visualsubnetcalc](https://github.com/alsyundawy/visualsubnetcalc)** [![Stars](https://img.shields.io/github/stars/alsyundawy/visualsubnetcalc?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/visualsubnetcalc) `[49 Komit]`<br>
+  *Kalkulator Subnet Visual — Edisi Modern & Diperkeras. Perencana subnet IPv4 & IPv6 CIDR visual dengan pembagian bit real-time dan bebas penyimpanan sisi server.*<br>
+  `TypeScript` `Networking` `Subnetting` `IPv4` `CIDR`
+- 📦 **[zmbackup](https://github.com/alsyundawy/zmbackup)** [![Stars](https://img.shields.io/github/stars/alsyundawy/zmbackup?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/zmbackup) `[47 Komit]`<br>
+  *Solusi hot backup multi-threaded, pemulihan instan, dan migrasi lintas OS untuk Zimbra Collaboration Suite & Carbonio.*<br>
+  `Shell` `Zimbra` `Backup` `Disaster-Recovery` `Migration`
+- 📦 **[pear-desktop-mac](https://github.com/alsyundawy/pear-desktop-mac)** [![Stars](https://img.shields.io/github/stars/alsyundawy/pear-desktop-mac?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/pear-desktop-mac) `[44 Komit]`<br>
+  *Klien desktop macOS berkinerja tinggi untuk YouTube Music dengan pemblokir iklan bawaan (27+ vendor filter), SponsorBlock, dan lirik tersinkronisasi.*<br>
+  `macOS` `Apple-Silicon` `YouTube-Music` `Electron` `TypeScript`
+- 📦 **[SmartDNS](https://github.com/alsyundawy/SmartDNS)** [![Stars](https://img.shields.io/github/stars/alsyundawy/SmartDNS?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/SmartDNS) `[43 Komit]`<br>
+  *Platform resolver DNS otomatis untuk jaringan ISP dan enterprise dengan perutean multi-upstream pintar.*<br>
+  `HTML` `JavaScript` `DNS` `Resolver` `Routing`
+- 📦 **[SubnetCalc-MacOS](https://github.com/alsyundawy/SubnetCalc-MacOS)** [![Stars](https://img.shields.io/github/stars/alsyundawy/SubnetCalc-MacOS?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/SubnetCalc-MacOS) `[32 Komit]`<br>
+  *Kalkulator subnet IPv4 & IPv6 native Swift & Cocoa AppKit berkinerja tinggi untuk macOS (Universal 2: M1-M4 & Intel) dengan 25 tema pengembang.*<br>
+  `Swift` `macOS` `Apple-Silicon` `AppKit` `Cocoa` `Subnetting` `IPAM`
+- 📦 **[ufw-ipset-blocklist-autoupdate](https://github.com/alsyundawy/ufw-ipset-blocklist-autoupdate)** [![Stars](https://img.shields.io/github/stars/alsyundawy/ufw-ipset-blocklist-autoupdate?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/ufw-ipset-blocklist-autoupdate) `[27 Komit]`<br>
+  *Pembaruan otomatis daftar blokir IP berbahaya pada firewall Linux menggunakan ipset dan ufw secara berkala.*<br>
+  `Shell` `UFW` `Ipset` `Security` `Firewall`
+- 📦 **[OpenVPN-Install](https://github.com/alsyundawy/OpenVPN-Install)** [![Stars](https://img.shields.io/github/stars/alsyundawy/OpenVPN-Install?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/OpenVPN-Install) `[24 Komit]`<br>
+  *Installer OpenVPN road warrior untuk Debian, Ubuntu, dan CentOS dengan dukungan dual-stack IPv4/IPv6 dan DNS Unbound.*<br>
+  `Shell` `OpenVPN` `VPN` `Security` `Networking`
+- 📦 **[cyberpanel](https://github.com/alsyundawy/cyberpanel)** [![Stars](https://img.shields.io/github/stars/alsyundawy/cyberpanel?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/cyberpanel) `[21 Komit]`<br>
+  *Panel kontrol web hosting untuk OpenLiteSpeed dengan penyesuaian keamanan lingkungan produksi.*<br>
+  `JavaScript` `Python` `Hosting` `LiteSpeed` `Control-Panel`
+- 📦 **[esxi-unlocker-v4](https://github.com/alsyundawy/esxi-unlocker-v4)** [![Stars](https://img.shields.io/github/stars/alsyundawy/esxi-unlocker-v4?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/esxi-unlocker-v4) `[11 Komit]`<br>
+  *macOS Unlocker V4 untuk VMware ESXi. Memungkinkan dukungan guest OS macOS pada hypervisor server VMware ESXi.*<br>
+  `Python` `VMware` `ESXi` `macOS` `Hypervisor`
+- 📦 **[Zimbra2Zimbra-Migration-Tool](https://github.com/alsyundawy/Zimbra2Zimbra-Migration-Tool)** [![Stars](https://img.shields.io/github/stars/alsyundawy/Zimbra2Zimbra-Migration-Tool?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/Zimbra2Zimbra-Migration-Tool) `[11 Komit]`<br>
+  *Mesin migrasi Zimbra-ke-Zimbra (Z2Z) enterprise lintas versi tanpa kehilangan data atau kendala timeout.*<br>
+  `Shell` `Zimbra` `Migration` `Backup` `Mail-Server`
+- 📦 **[Windows10Debloater](https://github.com/alsyundawy/Windows10Debloater)** [![Stars](https://img.shields.io/github/stars/alsyundawy/Windows10Debloater?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/Windows10Debloater) `[6 Komit]`<br>
+  *Skrip PowerShell untuk membersihkan bloatware, mematikan telemetri, dan menghentikan proses latar belakang pada Windows 10/11.*<br>
+  `PowerShell` `Windows` `Debloat` `System-Tuning`
+- 📦 **[OpenSID](https://github.com/alsyundawy/OpenSID)** [![Stars](https://img.shields.io/github/stars/alsyundawy/OpenSID?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/OpenSID) `[5 Komit]`<br>
+  *Sistem Informasi Desa (SID) open-source dengan penyesuaian kompatibilitas server PHP 8+ dan pengerasan web.*<br>
+  `PHP` `OpenSID` `Government` `Indonesia`
+- 📦 **[Linux-System-Management-Scripts-Tricks](https://github.com/alsyundawy/Linux-System-Management-Scripts-Tricks)** [![Stars](https://img.shields.io/github/stars/alsyundawy/Linux-System-Management-Scripts-Tricks?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/Linux-System-Management-Scripts-Tricks) `[4 Komit]`<br>
+  *Kumpulan skrip otomatisasi sysadmin Linux, trik monitoring, dan panduan sertifikasi infrastruktur.*<br>
+  `Shell` `Linux` `Sysadmin` `DevOps`
+- 📦 **[wireguard-install](https://github.com/alsyundawy/wireguard-install)** [![Stars](https://img.shields.io/github/stars/alsyundawy/wireguard-install?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/wireguard-install) `[2 Komit]`<br>
+  *Skrip otomatisasi instalasi WireGuard road warrior dengan generator profil QR-Code otomatis.*<br>
+  `Shell` `WireGuard` `VPN` `Security`
+- 📦 **[AutoInstallGenieACS](https://github.com/alsyundawy/AutoInstallGenieACS)** [![Stars](https://img.shields.io/github/stars/alsyundawy/AutoInstallGenieACS?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/AutoInstallGenieACS) `[1 Komit]`<br>
+  *Skrip instalasi dan konfigurasi otomatis server GenieACS TR-069 pada distro Debian & Ubuntu.*<br>
+  `Shell` `GenieACS` `TR-069` `ISP`
+- 📦 **[dnsdist-one-click](https://github.com/alsyundawy/dnsdist-one-click)** [![Stars](https://img.shields.io/github/stars/alsyundawy/dnsdist-one-click) `[1 Komit]`<br>
+  *Installer cepat DNSDist load balancer berkecepatan tinggi dengan integrasi aturan TrustPositif Komdigi.*<br>
+  `Shell` `DNSDist` `DNS` `TrustPositif` `Load-Balancer`
+- 📦 **[SlimBrave-Neo](https://github.com/alsyundawy/SlimBrave-Neo)** [![Stars](https://img.shields.io/github/stars/alsyundawy/SlimBrave-Neo)](https://github.com/alsyundawy/SlimBrave-Neo) `[1 Komit]`<br>
+  *Debloat dan pengerasan peramban Brave pada Linux dan macOS untuk privasi dan efisiensi memori.*<br>
+  `Python` `Brave` `Privacy` `Debloat`
+
+---
+
+#### 📚 Prioritas 3: Koleksi Cermin & Fork Referensi Terpilih (Non-Arsip)
+
+*Koleksi repositori hulu, perkakas keamanan jaringan, dan referensi sistem yang dirawat aktif. Seluruh repositori berstatus arsip telah dieksklusikan.*
+
+<details>
+<summary><b>📂 Buka Katalog Lengkap 99+ Fork & Cermin Referensi Aktif Terpilih</b> (Klik untuk melihat tabel)</summary>
+
+| Repositori / Cermin | Stars | Bahasa | Fokus & Referensi Proyek |
+| :--- | :---: | :---: | :--- |
+| [**dns-blocklists**](https://github.com/alsyundawy/dns-blocklists) | ★ 10 | `Text` | DNS-Blocklists: For a better internet - keep the internet clean! |
+| [**Sefinek-Blocklist-Collection**](https://github.com/alsyundawy/Sefinek-Blocklist-Collection) | ★ 8 | `JavaScript` | 🍒 A comprehensive repository of block lists for Pi-hole and AdGuard, featuring ove... |
+| [**Microsoft-Activation-Scripts**](https://github.com/alsyundawy/Microsoft-Activation-Scripts) | ★ 6 | `Batchfile` | A collection of scripts for activating Microsoft products using HWID / KMS38 / Onl... |
+| [**skipmdm-bypass**](https://github.com/alsyundawy/skipmdm-bypass) | ★ 5 | `Shell` | AUTOBYPASS MDM Macbook Monterey, Ventura & Sonoma |
+| [**IP-Block-Lists**](https://github.com/alsyundawy/IP-Block-Lists) | ★ 4 | `Misc` | IP block lists for: Malware, Bots, Hackers, Sniffers, etc.. |
+| [**nginx-ultimate-bad-bot-blocker**](https://github.com/alsyundawy/nginx-ultimate-bad-bot-blocker) | ★ 4 | `Shell` | Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents,... |
+| [**SecLists**](https://github.com/alsyundawy/SecLists) | ★ 4 | `PHP` | SecLists is the security tester's companion. It's a collection of multiple types o... |
+| [**poweradmin**](https://github.com/alsyundawy/poweradmin) | ★ 3 | `PHP` | A web-based control panel for PowerDNS |
+| [**Zorin-OS-Pro**](https://github.com/alsyundawy/Zorin-OS-Pro) | ★ 3 | `Shell` | This script turns your Zorin OS CORE into Zorin OS PRO |
+| [**Apple-Silicon-Guide**](https://github.com/alsyundawy/Apple-Silicon-Guide) | ★ 3 | `Swift` | Apple Silicon Guide. Learn all about the A16 Bionic, M1, M1 Pro, M1 Max, M1 Ultra,... |
+| [**nVidia-modded-Inf**](https://github.com/alsyundawy/nVidia-modded-Inf) | ★ 3 | `JavaScript` | Modified nVidia .inf files to run drivers on all video cards, research & telemetry... |
+| [**publicsuffix**](https://github.com/alsyundawy/publicsuffix) | ★ 2 | `Go` | The Public Suffix List |
+| [**MHDDoS**](https://github.com/alsyundawy/MHDDoS) | ★ 2 | `Python` | Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods |
+| [**BlockLists**](https://github.com/alsyundawy/BlockLists) | ★ 2 | `Misc` | DNS Block Lists |
+| [**zimbra-build-scripts**](https://github.com/alsyundawy/zimbra-build-scripts) | ★ 2 | `Shell` | Zimbra Build Helper Script - makes it easier to build Zimbra |
+| [**openfortivpn**](https://github.com/alsyundawy/openfortivpn) | ★ 2 | `Perl` | Client for PPP+SSL VPN tunnel services |
+| [**awesome-pentest**](https://github.com/alsyundawy/awesome-pentest) | ★ 2 | `Misc` | A collection of awesome penetration testing resources, tools and other shiny things |
+| [**awesome-mac**](https://github.com/alsyundawy/awesome-mac) | ★ 2 | `Swift` |  Now we have become very big, Different from the original idea. Collect premium s... |
+| [**AllTools**](https://github.com/alsyundawy/AllTools) | ★ 2 | `Misc` | All reasonably stable tools |
+| [**mikrotik-1**](https://github.com/alsyundawy/mikrotik-1) | ★ 2 | `RouterOS Script` | All about of mikrotik script |
+| [**nginx-autoinstall**](https://github.com/alsyundawy/nginx-autoinstall) | ★ 2 | `Shell` | Compile Nginx from source with custom modules on Debian and Ubuntu |
+| [**pihole-blocklist**](https://github.com/alsyundawy/pihole-blocklist) | ★ 2 | `Misc` | Pi-Hole blocklist. |
+| [**macos-virtualbox**](https://github.com/alsyundawy/macos-virtualbox) | ★ 2 | `Shell` | Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtual... |
+| [**Warez**](https://github.com/alsyundawy/Warez) | ★ 2 | `Markdown` | All your base are belong to us! |
+| [**Chromium-hardening**](https://github.com/alsyundawy/Chromium-hardening) | ★ 2 | `Batchfile` | Hardens Chrome & Chromium based Browsers |
+| [**Windows-10-hardening**](https://github.com/alsyundawy/Windows-10-hardening) | ★ 2 | `PowerShell` | - I currently have no stable internet connection, sorry! I did not forgot my littl... |
+| [**speedtest-html5**](https://github.com/alsyundawy/speedtest-html5) | ★ 1 | `JavaScript` | Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobi... |
+| [**ESXi-Custom-ISO**](https://github.com/alsyundawy/ESXi-Custom-ISO) | ★ 1 | `Shell` | Scripts to inject VMware ESXi ISOs with NIC, NVME, USB NIC & Zimaboard drivers |
+| [**StevenBlack-Host**](https://github.com/alsyundawy/StevenBlack-Host) | ★ 1 | `Python` | 🔒 Consolidating and extending hosts files from several well-curated sources. Optio... |
+| [**Remove-MS-Edge**](https://github.com/alsyundawy/Remove-MS-Edge) | ★ 1 | `Batchfile` | Uninstall Microsoft Edge silently, through an executable. |
+| [**OSX-PROXMOX**](https://github.com/alsyundawy/OSX-PROXMOX) | ★ 1 | `Shell` | Voilà, install macOS on ANY Computer! This is really and magic easiest way! |
+| [**DAFTAR-API-LOKAL-INDONESIA**](https://github.com/alsyundawy/DAFTAR-API-LOKAL-INDONESIA) | ★ 1 | `TypeScript` | Berisi API tentang Data Indonesia ataupun API yang dibuat oleh developer Indonesia <3 |
+| [**linux-malware-detect**](https://github.com/alsyundawy/linux-malware-detect) | ★ 1 | `Shell` | Linux Malware Detection (LMD) |
+| [**FilterLists**](https://github.com/alsyundawy/FilterLists) | ★ 1 | `C#` | :shield: The independent, comprehensive directory of filter and host lists for adv... |
+| [**hagezi**](https://github.com/alsyundawy/hagezi) | ★ 1 | `Misc` | Optimized version of HAGEZI BlockLists |
+| [**openssl-RPM-Builder**](https://github.com/alsyundawy/openssl-RPM-Builder) | ★ 1 | `Shell` | Build latest OpenSSL binary for CentOS |
+| [**generative-ai-for-beginners**](https://github.com/alsyundawy/generative-ai-for-beginners) | ★ 1 | `Jupyter Notebook` | 21 Lessons, Get Started Building with Generative AI |
+| [**dns-community-blacklist**](https://github.com/alsyundawy/dns-community-blacklist) | ★ 1 | `Shell` | Cermin repositori hulu dan perkakas referensi. |
+| [**hestiacp**](https://github.com/alsyundawy/hestiacp) | ★ 1 | `Shell` | Hestia Control Panel / A lightweight and powerful control panel for the modern web. |
+| [**filters**](https://github.com/alsyundawy/filters) | ★ 1 | `Shell` | Internet filtering via DNS RPZ file. |
+| [**livehelperchat**](https://github.com/alsyundawy/livehelperchat) | ★ 1 | `PHP` | Live Helper Chat - live support for your website. Featuring web and desktop client... |
+| [**yet-another-bench-script**](https://github.com/alsyundawy/yet-another-bench-script) | ★ 1 | `Shell` | YABS - a simple bash script to estimate Linux server performance using fio, iperf3... |
+| [**Wireless-USB-Big-Sur-Adapter**](https://github.com/alsyundawy/Wireless-USB-Big-Sur-Adapter) | ★ 1 | `Rich Text Format` | Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters. Packages for macOS |
+| [**country-ip-blocks**](https://github.com/alsyundawy/country-ip-blocks) | ★ 1 | `Misc` | CIDR country-level IP data, straight from the Regional Internet Registries, update... |
+| [**domain-list-community-v2**](https://github.com/alsyundawy/domain-list-community-v2) | ★ 1 | `Go` | Community managed domain list. Generate geosite.dat for V2Ray. |
+| [**domain-list-community**](https://github.com/alsyundawy/domain-list-community) | ★ 1 | `Go` | Community managed domain list |
+| [**hosts-sources**](https://github.com/alsyundawy/hosts-sources) | ★ 1 | `PHP` | Script to keep lists of external hosts sources up to date in a raw domain.tld form... |
+| [**geo-ip**](https://github.com/alsyundawy/geo-ip) | ★ 1 | `Misc` | My Little GEO IP Lists based on cc2asn |
+| [**blocklist-ipsets**](https://github.com/alsyundawy/blocklist-ipsets) | ★ 1 | `Shell` | ipsets dynamically updated with firehol's update-ipsets.sh script |
+| [**openssh-rpms**](https://github.com/alsyundawy/openssh-rpms) | ★ 1 | `Shell` | x64环境适用的OpenSSL/SSH rpm包 |
+| [**macos_configurator**](https://github.com/alsyundawy/macos_configurator) | ★ 1 | `Shell` | Yet another script to configure MacOS |
+| [**nolovia**](https://github.com/alsyundawy/nolovia) | ★ 1 | `PHP` | Nolovia is an ad/malware blocking configuration file generator for bind, NSD,... |
+| [**lamp**](https://github.com/alsyundawy/lamp) | ★ 1 | `Shell` | Install LAMP (Linux + Apache + MySQL/MariaDB + PHP) for AlmaLinux/RockyLinux/CentO... |
+| [**recoveryOS-Virtualisation**](https://github.com/alsyundawy/recoveryOS-Virtualisation) | ★ 1 | `Go` | Create macOS recoveryOS images for virtualisation |
+| [**openspeedtest**](https://github.com/alsyundawy/openspeedtest) | ★ 1 | `JavaScript` | SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Es... |
+| [**kms-activate**](https://github.com/alsyundawy/kms-activate) | ★ 1 | `C#` | Microsoft Windows/Office 一键激活工具，基于kms.jm33.me的KMS服务器 |
+| [**bind9-rpz**](https://github.com/alsyundawy/bind9-rpz) | ★ 1 | `Misc` | Bind9 RPZ blacklist |
+| [**universal-android-debloater-next-generation**](https://github.com/alsyundawy/universal-android-debloater-next-generation) | ★ 1 | `Rust` | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices... |
+| [**dockerlabs**](https://github.com/alsyundawy/dockerlabs) | ★ 1 | `PHP` | Docker - Beginners / Intermediate / Advanced |
+| [**efa-project-v4**](https://github.com/alsyundawy/efa-project-v4) | ★ 1 | `Shell` | V4 |
+| [**html-templates-1**](https://github.com/alsyundawy/html-templates-1) | ★ 1 | `HTML` | 100 (one hundred) simple and elegant HTML templates 💯 |
+| [**CXPatcher**](https://github.com/alsyundawy/CXPatcher) | ★ 1 | `Swift` | A patcher to upgrade Crossover dependencies and improve compatibility |
+| [**Webserver-Error-Pages**](https://github.com/alsyundawy/Webserver-Error-Pages) | ★ 1 | `HTML` | 📵 A drop-in replacement of 54, beautifully designed, user-friendly Apache 2, Nginx... |
+| [**asn**](https://github.com/alsyundawy/asn) | ★ 1 | `Shell` | ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization /... |
+| [**vesta**](https://github.com/alsyundawy/vesta) | ★ 1 | `PHP` | VESTA Control Panel |
+| [**wphunter**](https://github.com/alsyundawy/wphunter) | ★ 1 | `Python` | WordPress vulnerability scanner with public exploit/POC lookup, gambling spam (jud... |
+| [**HttpErrorPages**](https://github.com/alsyundawy/HttpErrorPages) | ★ 1 | `JavaScript` | :fast_forward: Simple HTTP Error Page Generator |
+| [**nginxconfig.io**](https://github.com/alsyundawy/nginxconfig.io) | ★ 1 | `JavaScript` | ⚙️ NGINX config generator on steroids 💉 |
+| [**angristan-wireguard-install**](https://github.com/alsyundawy/angristan-wireguard-install) | ★ 1 | `Shell` | WireGuard VPN installer for Linux servers |
+| [**centminmod**](https://github.com/alsyundawy/centminmod) | ★ 1 | `Shell` | menu based Nginx auto installer (GPLv3 licensed) |
+| [**uBlock-filterlists**](https://github.com/alsyundawy/uBlock-filterlists) | ★ 1 | `Misc` | Collection of filters to fill in the gaps uBlock |
+| [**dbl-oisd-nl**](https://github.com/alsyundawy/dbl-oisd-nl) | ★ 1 | `Misc` | abp.oisd.nl / Internet's #1 domain blocklist (Mirror) |
+| [**PhoenixPE**](https://github.com/alsyundawy/PhoenixPE) | ★ 1 | `HTML` | PhoenixPE allows you to create a customized Rescue/Recovery Environment based on W... |
+| [**Self-Hosting-Guide**](https://github.com/alsyundawy/Self-Hosting-Guide) | ★ 1 | `Dockerfile` | Self-Hosting Guide. Learn all about locally hosting (on premises & private web ser... |
+| [**MIP**](https://github.com/alsyundawy/MIP) | ★ 1 | `C` | MIP – macOS Injection Platform |
+| [**zinstaller-ne**](https://github.com/alsyundawy/zinstaller-ne) | ★ 1 | `Shell` | Automated installation of Zimbra |
+| [**Android-System-App-Remover**](https://github.com/alsyundawy/Android-System-App-Remover) | ★ 1 | `Shell` | Bloatware remover tools for all android ROM out there... |
+| [**nginx-admins-handbook**](https://github.com/alsyundawy/nginx-admins-handbook) | ★ 1 | `Shell` | How to improve NGINX performance, security, and other important things; @ssllabs A... |
+| [**SpotX-Mac**](https://github.com/alsyundawy/SpotX-Mac) | ★ 1 | `Shell` | Spotify Ad blocker based on SpotX for MacOS |
+| [**mikrotik_adblock**](https://github.com/alsyundawy/mikrotik_adblock) | ★ 1 | `Shell` | Generate static DNS entries for MikroTik from public domain adblock lists |
+| [**100-template-HTML-CSS**](https://github.com/alsyundawy/100-template-HTML-CSS) | ★ 1 | `HTML` | Share 100 templates HTML5 CSS3 for developer or beginner |
+| [**homebrew-virt-manager**](https://github.com/alsyundawy/homebrew-virt-manager) | ★ 1 | `Ruby` | A set of homebrew formulae to install virt-manager and virt-viewer on MAC OSX |
+| [**incubator-pagespeed-ngx**](https://github.com/alsyundawy/incubator-pagespeed-ngx) | ★ 1 | `C++` | Automatic PageSpeed optimization module for Nginx |
+| [**mikrotik-helper**](https://github.com/alsyundawy/mikrotik-helper) | ★ 1 | `HTML` | Cermin repositori hulu dan perkakas referensi. |
+| [**Simple-DNS-Lookup**](https://github.com/alsyundawy/Simple-DNS-Lookup) | ★ 1 | `PHP` | PHP DNS Lookup script |
+| [**SOCKS**](https://github.com/alsyundawy/SOCKS) | ★ 1 | `Shell` | SOCKS5 Server Management Script |
+| [**bettercamp**](https://github.com/alsyundawy/bettercamp) | ★ 1 | `ASL` | A super simple script to automate hardware drivers setup for Microsoft Windows on... |
+| [**cacti-install-wizard**](https://github.com/alsyundawy/cacti-install-wizard) | ★ 1 | `Shell` | This script is a setup wizard for a new cacti installation |
+| [**ahadns-server-setup**](https://github.com/alsyundawy/ahadns-server-setup) | ★ 1 | `Shell` | Ansible playbook to easily deploy new, fully configured, DNS servers. |
+| [**xshok-proxmox**](https://github.com/alsyundawy/xshok-proxmox) | ★ 1 | `Shell` | proxmox (pve) post installation optimizing and helper scripts |
+| [**hopebilling**](https://github.com/alsyundawy/hopebilling) | ★ 1 | `PHP` | The free billing system hopebilling.com |
+| [**local-dns-resolver**](https://github.com/alsyundawy/local-dns-resolver) | ★ 1 | `Shell` | Script to install a local Unbound DNS resolver on your Linux machine with DNSSEC s... |
+| [**WinboxPoC**](https://github.com/alsyundawy/WinboxPoC) | ★ 1 | `Python` | Proof of Concept of Winbox Critical Vulnerability (CVE-2018-14847) |
+| [**vmdk2qcow2**](https://github.com/alsyundawy/vmdk2qcow2) | ★ 1 | `Shell` | convert VMWare and VirtualBox VM files to QEMU-KVM VM disk files |
+| [**generate-ip-cert**](https://github.com/alsyundawy/generate-ip-cert) | ★ 1 | `Shell` | Script for generating a self-signed certificate for an IP address |
+| [**Postfix-vManager**](https://github.com/alsyundawy/Postfix-vManager) | ★ 1 | `Misc` | Postfix vManager is a Web Based Management tool created for Postfix Mail Server Ad... |
+| [**pptpd-centos7-install-script**](https://github.com/alsyundawy/pptpd-centos7-install-script) | ★ 1 | `Shell` | Build your own VPN. |
+| [**nginx**](https://github.com/alsyundawy/nginx) | ★ 1 | `Nginx` | My Nginx configuration files, for all to use and improve upon. |
+| [**nginx-config**](https://github.com/alsyundawy/nginx-config) | ★ 1 | `Misc` | Nginx configuration and Virtual Host examples |
+
+</details>
 
 ---
 

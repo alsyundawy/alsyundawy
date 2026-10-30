@@ -355,9 +355,7 @@ Trusted by **56+ Internet Service Providers (ISPs), network operators, and enter
   <img src="https://github-profile-trophy-unserori.vercel.app/?username=alsyundawy&theme=tokyonight&column=7" alt="Trophies" width="100%" />
 </p>
 
-```markdown
-[![GitHub Repository Stats](https://github-stats-extended.vercel.app/api?username=alsyundawy&repo=OWNER/REPOSITORY&custom_title=Repository%20Stats&show=prs_authored%2Cprs_commented%2Cprs_reviewed%2Cissues_authored%2Cissues_commented&show_icons=true&include_all_commits=true&theme=dark_github)](https://github.com/OWNER/REPOSITORY)
-```
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=alsyundawy&rank_icon=github&custom_title=Alsyundawy%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=alsyundawy&rank_icon=github&custom_title=Alsyundawy%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)
 
 ---
 

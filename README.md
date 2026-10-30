@@ -258,12 +258,6 @@ Curated enterprise tutorials, server architectures, and deployment guides from [
 - 📦 **[PowerDNS-Zone-Backups](https://github.com/alsyundawy/PowerDNS-Zone-Backups)** [![Stars](https://img.shields.io/github/stars/alsyundawy/PowerDNS-Zone-Backups?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/PowerDNS-Zone-Backups)<br>
   *Automated PowerDNS zone backup solution with incremental backups.*<br>
   `PowerDNS` `Backup` `Database`
-- 📦 **[nginx-reverse-proxy-cluster](https://github.com/alsyundawy/nginx-reverse-proxy-cluster)** [![Stars](https://img.shields.io/github/stars/alsyundawy/nginx-reverse-proxy-cluster?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/nginx-reverse-proxy-cluster)<br>
-  *High-availability Nginx reverse proxy & load balancing cluster architecture with SSL termination, HTTP/2, and rate limiting.*<br>
-  `Nginx` `Reverse-Proxy` `Load-Balancing` `High-Availability` `Security`
-- 📦 **[isp-billing-radius](https://github.com/alsyundawy/isp-billing-radius)** [![Stars](https://img.shields.io/github/stars/alsyundawy/isp-billing-radius?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/isp-billing-radius)<br>
-  *FreeRADIUS and MikroTik API integration module for automated ISP subscriber bandwidth provisioning and billing.*<br>
-  `FreeRADIUS` `MikroTik` `ISP` `Billing` `Network-Engineering`
 
 #### ✉️ Mail Systems & Zimbra Collaboration Suite
 
@@ -327,9 +321,6 @@ Curated enterprise tutorials, server architectures, and deployment guides from [
 - 📦 **[XiaomiADBFastbootTools-Win32](https://github.com/alsyundawy/XiaomiADBFastbootTools-Win32)** [![Stars](https://img.shields.io/github/stars/alsyundawy/XiaomiADBFastbootTools-Win32?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/XiaomiADBFastbootTools-Win32)<br>
   *ADB and fastboot tools optimized for Xiaomi devices on Windows.*<br>
   `Windows` `ADB` `Fastboot` `Xiaomi`
-- 📦 **[macos-pro-tweaks](https://github.com/alsyundawy/macos-pro-tweaks)** [![Stars](https://img.shields.io/github/stars/alsyundawy/macos-pro-tweaks?style=flat-square&color=fee101&logo=github)](https://github.com/alsyundawy/macos-pro-tweaks)<br>
-  *Production-grade macOS developer environment setup, system tuning, and hidden defaults configuration scripts.*<br>
-  `macOS` `Shell` `Developer-Tools` `System-Tuning` `Automation`
 
 ---
 
